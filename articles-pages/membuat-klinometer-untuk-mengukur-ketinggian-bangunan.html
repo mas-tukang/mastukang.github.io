@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="id">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <title>Membuat Klinometer Sederhana Untuk Memperkirakan Ketinggian Bangunan</title>
+  <meta name="description"
+    content="Pelajari cara membuat klinometer sederhana dari bahan seadanya untuk memperkirakan ketinggian bangunan menggunakan trigonometri">
+  <meta name="keywords"
+    content="klinometer, sudut, trigonometri, ketinggian, rumus, perbandingan, matematika, tips, mas tukang, pramuka">
+  <meta name="author" content="Mas Tukang">
+
+  <link href="../assets/img/favicon.png" rel="icon">
+  <link href="../assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <meta property="og:title" content="Membuat Klinometer Sederhana Untuk Memperkirakan Ketinggian Bangunan">
+  <meta property="og:description"
+    content="Pelajari cara membuat klinometer sederhana dari bahan seadanya untuk memperkirakan ketinggian bangunan menggunakan trigonometri">
+  <meta property="og:image"
+    content="https://infomastukang.com/assets/img/articles/membuat-klinometer-untuk-mengukur-ketinggian-bangunan/title-image.webp">
+  <meta property="og:url"
+    content="https://infomastukang/articles/membuat-klinometer-untuk-mengukur-ketinggian-bangunan.html">
+  <meta property="og:type" content="article">
+  <meta property="og:site_name" content="Mas Tukang">
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@yourtwitterhandle">
+  <meta name="twitter:creator" content="@yourtwitterhandle">
+  <meta name="twitter:title" content="Membuat Klinometer Sederhana Untuk Memperkirakan Ketinggian Bangunan">
+  <meta name="twitter:description"
+    content="Pelajari cara membuat klinometer sederhana dari bahan seadanya untuk memperkirakan ketinggian bangunan menggunakan trigonometri">
+  <meta name="twitter:image"
+    content="https://infomastukang.com/assets/img/articles/membuat-klinometer-untuk-mengukur-ketinggian-bangunan/title-image.webp">
+
+  <link rel="canonical"
+    href="https://infomastukang/articles/membuat-klinometer-untuk-mengukur-ketinggian-bangunan.html">
+
+  <link href="https://fonts.googleapis.com" rel="preconnect">
+  <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;0,700;0,800;0,900&family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+    rel="stylesheet">
+
+  <link href="../assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="../assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="../assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="../assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+  <link href="../assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+
+  <link href="../assets/css/main.css" rel="stylesheet">
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://infomastukang/articles/membuat-klinometer-untuk-mengukur-ketinggian-bangunan.html"
+    },
+    "headline": "Membuat Klinometer Sederhana Untuk Memperkirakan Ketinggian Bangunan",
+    "description": "Pelajari cara membuat klinometer sederhana dari bahan seadanya untuk memperkirakan ketinggian bangunan menggunakan trigonometri",
+    "image": "https://infomastukang.com/assets/img/articles/membuat-klinometer-untuk-mengukur-ketinggian-bangunan/title-image.webp",
+    "author": {
+      "@type": "Person",
+      "name": "Mas Tukang"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Mas Tukang",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://infomastukang.com/assets/img/logo.png"
+      }
+    },
+    "datePublished": "2025-07-16",
+    "dateModified": "2025-07-16"
+  }
+  </script>
+
+</head>
+
+<body class="index-page">
+
+  <header id="header" class="header d-flex align-items-center light-background sticky-top">
+    <div class="container-fluid position-relative d-flex align-items-center justify-content-between">
+
+      <a href="../index.html" class="logo align-items-center">
+        <img src="../assets/img/logo.png" alt="Mas Tukang logo">
+      </a>
+
+      <nav id="navmenu" class="navmenu">
+        <ul>
+          <li><a href="../index.html">Home</a></li>
+          <li><a href="../articles.html" class="active">Artikel</a></li>
+          <li><a href="../products.html">Produk</a></li>
+          <li><a href="../channels.html">Channel</a></li>
+        </ul>
+        <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
+      </nav>
+
+      <div class="header-search">
+        <a href="#" class="search-icon"><i class="bi bi-search"></i></a>
+        <div class="search-box" id="search-box" style="display: none;">
+          <input type="text" id="search-input" placeholder="Cari artikel..." />
+        </div>
+      </div>
+
+    </div>
+  </header>
+
+  <main class="main">
+
+    <section id="articles" class="articles section">
+
+      <div class="container">
+        <div class="article-body">
+          <article>
+            <h1>Membuat Klinometer Sederhana Untuk Memperkirakan Ketinggian Bangunan</h1>
+
+            <div class="article-image">
+              <img src="../assets/img/articles/membuat-klinometer-untuk-mengukur-ketinggian-bangunan/title-image.webp"
+                width="1000px" alt="Gambar ilustrasi panci presto di atas kompor">
+            </div>
+
+            <p>Teman-teman kemungkinan pernah bersinggungan dengan klinometer, saat di bangku sekolah menengah atau saat
+              sedang beraktivitas di dalam ektra-kulikuler pramuka. Klinometer versi sederhana ini adalah alat yang
+              mudah dibuat dan juga mudah untuk digunakan. Lantas, apakah fungsinya? Nah, klinometer ini dapat digunakan
+              untuk memperkirakan tinggi suatu benda atau tempat menggunakan sudut kemiringan.
+            </p>
+
+            <br>
+
+            <h2>Menggunakan Klinometer Untuk Memperkirakan Ketinggian Bangunan</h2>
+            <p>Cara kerjanya adalah dengan memperkirakan kemiringan suatu benda atau tempat dari sudut pandang kita.
+              Kemudian, menggunakan data kemiringan dalam derajat ini, kita cari tangen. Ditambah dengan data jarak kita
+              dari lokasi yang sedang kita ukur, serta ketinggian posisi kita mengukur, ketinggian benda atau tempat
+              dapat kita perkirakan.
+            </p>
+
+            <br>
+
+            <h2>Alat dan Bahan Membuat Klinometer Sederhana</h2>
+            <p>Nah, lantas bagaimanakah cara untuk membuat klinometer sederhana? Alat dan bahan yang dibutuhkan adalah:
+              <ul>
+                <li>Busur</li>
+                <li>Benang (kita bisa pakai benang jahit biasa)</li>
+                <li>Benda yang berat seperti batu atau bongkahan kayu</li>
+                <li>Solasi</li>
+              </ul>
+            </p>
+
+            <br>
+
+            <h2>Langkah-Langkah Membuat Klinometer Sederhana</h2>
+            <p>
+              <ol>
+                <li>
+                  Kita letakkan benang di titik pusat busur, yang berada di bagian tengahnya. Jadi, bila nantinya benang yang sudah digantungi batu tersebut akan diarahkan ke bawah, kita akan mendapatkan sudut sebesar 90°.
+                </li>
+                <li>
+                  Setelah benang berada di titik tengah busur, salah satu ujungnya kita selotip. Nah, kita perlu pastikan agar menggunakan selotip dalam jumlah cukup banyak agar tidak lepas ya, karena benang akan digantungi batu. Kita bisa pakai selotip sepanjang sekitar 4-5 cm bila diperlukan.
+                </li>
+                <li>
+                  Setelah salah satu ujung benang telah diselotip dengan kuat, kita potong benang hingga sepanjang sekitar 15 hingga 20 cm.
+                </li>
+                <li>
+                  Kemudian, kita ambil batu dan ikatkan ke ujung benang yang tidak diselotip. Kita juga bisa memperkuat posisi batu dengan tambahan selotip. Bila sedang tidak ada batu, kita juga bisa menggunakan kunci, obeng, atau barang apapun yang cukup berat.
+                </li>
+              </ol>
+             </p>
+
+            <br>
+
+            <p>Sedikit catatan, bila kita bisa menggantungkan batu hingga pada posisi dimana batu dan benang sudah tidak bergoyang-goyang lagi karena terkena angin, maka batu sudah cukup berat. Namun, bila batu dan benang masih terus bergoyang akibat tiupan angin, maka diperlukan batu yang lebih berat. Hal ini diperlukan agar kita bisa memperkirakan sudut dengan lebih presisi karena posisi benang tidak bergerak-gerak.
+            </p>
+
+            <br>
+
+            <h2>Video Membuat Klinometer Sederhana</h2>
+            <p>Bagaimana, mudah bukan membuat klinometer menggunakan busur, benang, selotip, dan batu? Video pendek tentang hal ini dapat dilihat dibawah ini. Semoga bermanfaat dan mari belajar bersama dengan cara yang menyenangkan.</p>
+
+            <br>
+
+            <div class="video-player">
+              <iframe width="225" height="400" src="https://www.youtube.com/embed/S1abJtgStmE?si=GM4BSv5WLqC2d5zI"
+                title="Membuat Klinometer Sederhana Untuk Memperkirakan Ketinggian Bangunan" frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </div>
+
+          </article>
+
+        </div>
+
+      </div>
+
+    </section>
+  </main>
+
+  <footer id="footer" class="footer light-background">
+
+    <div class="container">
+      <div class="copyright text-center ">
+        <p>© <span>2021</span> <strong class="px-1 sitename">Kalcel Media</strong> <span>All Rights Reserved<br></span>
+        </p>
+      </div>
+      <div class="social-links d-flex justify-content-center">
+        <a href=""><i class="bi bi-twitter-x"></i></a>
+        <a href=""><i class="bi bi-facebook"></i></a>
+        <a href=""><i class="bi bi-instagram"></i></a>
+        <a href=""><i class="bi bi-linkedin"></i></a>
+      </div>
+      <br>
+      <br>
+      <br>
+      <br>
+      <div class="credits">
+        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a> Distributed by <a
+          href=“https://themewagon.com>ThemeWagon
+      </div>
+    </div>
+
+  </footer>
+
+  <a href="#" id="scroll-top" class="scroll-top d-flex align-items-center justify-content-center"><i
+      class="bi bi-arrow-up-short"></i></a>
+
+  <div id="preloader"></div>
+
+  <script src="../assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="../assets/vendor/php-email-form/validate.js"></script>
+  <script src="../assets/vendor/aos/aos.js"></script>
+  <script src="../assets/vendor/waypoints/noframework.waypoints.js"></script>
+  <script src="../assets/vendor/purecounter/purecounter_vanilla.js"></script>
+  <script src="../assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="../assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="../assets/vendor/imagesloaded/imagesloaded.pkgd.min.js"></script>
+  <script src="../assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+
+  <script src="../assets/js/main.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2"></script>
+
+</body>
+
+</html>
