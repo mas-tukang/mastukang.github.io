@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="id">
+
+<head>
+  <meta charset="UTF-8" />
+  <title>Latihan Penjumlahan</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="../style.css" />
+</head>
+
+<body>
+
+  <div class="container">
+
+    <div class="back-btn">
+      <button onclick="location.href='../basic-math-home.html'">
+        ⬅️ Kembali ke Home
+      </button>
+    </div>
+
+    <h1>➕ Latihan Penjumlahan ➕</h1>
+
+    <div class="settings">
+      <h2>Silakan Pilih:</h2>
+      <label>
+        Tingkat Kesulitan:
+        <select id="levelSelect">
+          <option value="easy">🟢Mudah</option>
+          <option value="medium">🟡Sedang</option>
+          <option value="hard">🔴Sulit</option>
+        </select>
+      </label>
+
+      <label>
+        Jumlah Soal:
+        <input type="number" id="totalQuestionsInput" value="10" min="1" max="50" />
+      </label>
+
+      <button id="startBtn">🚀 Mulai</button>
+    </div>
+
+    <div id="gameArea" class="hidden">
+      <div id="question" class="question"></div>
+
+      <input type="number" id="answer" placeholder="Ketik jawaban..." />
+
+      <button id="checkBtn">✅ Cek Jawaban</button>
+
+      <div class="timer">
+        ⏰ Waktu: <span id="time"></span> detik
+      </div>
+
+      <div id="message" class="message"></div>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+
+</html>

@@ -91,6 +91,36 @@ h6 {
   font-family: var(--heading-font);
 }
 
+/* ========== UTILITIES ========== */
+.container {
+  width: 90%;
+  max-width: 1100px;
+  margin: auto;
+}
+
+.center {
+  text-align: center;
+}
+
+.grid-4 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 20px;
+}
+
+.grid-3 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 20px;
+}
+
+.two-col {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 40px;
+  align-items: center;
+}
+
 /* PHP Email Form Messages
 ------------------------------*/
 .php-email-form .error-message {
@@ -688,25 +718,123 @@ section,
 
 .section-title p {
   margin-bottom: 0;
+  color: var(--default-color);
 }
 
 /*--------------------------------------------------------------
 # Hero Section
 --------------------------------------------------------------*/
-.hero {
-  width: 100%;
-  min-height: calc(100vh - 82px);
-  position: relative;
-  padding: 80px 0;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+.btn {
+  display: inline-block;
+  padding: 10px 18px;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: 600;
 }
 
-@media (max-width: 1200px) {
-  .hero {
-    min-height: calc(100vh - 68px);
-  }
+.btn.primary {
+  background: var(--accent-color);
+  color: #fff;
+}
+
+.btn.outline {
+  color: #fff;
+  background: var(--accent-color);
+  transition: all 0.3s ease;
+}
+
+.btn.outline:hover {
+  background: #fff;
+  color: #111;
+  transform: translateY(-2px);
+}
+
+.btn.small {
+  background: var(--accent-color);
+  color: #fff;
+  font-size: 0.9rem;
+}
+
+.btn.small:hover {
+  background: #fff;
+  color: #111;
+  transform: translateY(-2px);
+}
+
+.btn.warning {
+  background: var(--accent-color);
+  color: var(--contrast-color);
+}
+
+.btn.warning:hover {
+  background: #fff;
+  color: #111;
+  transform: translateY(-2px);
+}
+
+.btn.danger {
+  background: #dc3545;
+  color: #fff;
+}
+
+.btn.danger:hover {
+  background: #fff;
+  color: #111;
+  transform: translateY(-2px);
+}
+
+.btn.dark {
+  background: #111;
+  color: #fff;
+}
+
+.btn.dark:hover {
+  background: #fff;
+  color: #111;
+  transform: translateY(-2px);
+}
+
+.btn.shop {
+  background: #fd7e14;
+  color: #fff;
+}
+
+.btn.shop:hover {
+  background: #fff;
+  color: #111;
+  transform: translateY(-2px);
+}
+
+
+
+.hero {
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+    url("../img/hero-bg.jpg") center/cover no-repeat;
+  color: #fff;
+  padding: 100px 0;
+  text-align: center;
+}
+
+.hero h2 {
+  margin: 0;
+  font-size: 36px;
+  font-weight: 700;
+}
+
+.hero p {
+  opacity: 0.8;
+  align-items: center;
+  justify-content: center;
+  margin: 10px 0 0 0;
+  font-size: 18px;
+}
+
+.hero-actions {
+  margin-top: 30px;
+}
+
+.hero-actions .btn {
+  margin: 5px;
 }
 
 .hero img {
@@ -722,18 +850,6 @@ section,
 .hero .container {
   position: relative;
   z-index: 3;
-}
-
-.hero h2 {
-  margin: 0;
-  font-size: 48px;
-  font-weight: 700;
-}
-
-.hero p {
-  margin: 10px 0 0 0;
-  font-size: 24px;
-  color: var(--heading-color);
 }
 
 .col-lg-4 .btn-shop {
@@ -785,10 +901,117 @@ section,
   .hero h2 {
     font-size: 32px;
   }
+}
 
-  .hero p {
-    font-size: 18px;
+@media (max-width: 1200px) {
+  .hero {
+    min-height: calc(100vh - 68px);
   }
+}
+
+/*--------------------------------------------------------------
+# FEATURES / 4 MAIN SECTION
+--------------------------------------------------------------*/
+.features {
+  padding: 60px 0;
+}
+
+.feature-card {
+  background: var(--surface-color);
+  padding: 25px;
+  border-radius: 10px;
+  text-align: center;
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.08);
+  transition: 0.3s;
+}
+
+.feature-card:hover {
+  transform: translateY(-10px);
+  background: var(--nav-hover-color);
+}
+
+.feature-card .icon {
+  font-size: 2.5rem;
+  margin-bottom: 15px;
+}
+
+.feature-card p {
+  color: var(--default-color);
+}
+
+/*--------------------------------------------------------------
+# EDUCATION HIGHLIGHT
+--------------------------------------------------------------*/
+
+.highlight {
+  background: var(--nav-dropdown-color);
+  padding: 70px 0;
+}
+
+.highlight h2 {
+  margin-bottom: 15px;
+}
+
+.highlight ul {
+  list-style: none;
+  margin: 20px 0;
+  padding-left: 0;
+}
+
+.center img {
+  width: 100%;
+  height: auto;
+}
+
+/*--------------------------------------------------------------
+# ARTICLES HIGHLIGHT
+--------------------------------------------------------------*/
+
+.articles {
+  padding: 60px 0;
+}
+
+.section-title {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.card {
+  background: var(--surface-color);
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 5px 12px rgba(0, 0, 0, 0.08);
+}
+
+.card h4 {
+  padding: 15px;
+}
+
+.card a {
+  display: block;
+  padding: 0 15px 15px;
+  color: var(--nav-dropdown-hover-color);
+  text-decoration: none;
+}
+
+.card p {
+  display: block;
+  padding: 0 15px 15px;
+  color: var(--default-color);
+  text-decoration: none;
+}
+
+/*--------------------------------------------------------------
+# CHANNEL HIGHLIGHT
+--------------------------------------------------------------*/
+.channel {
+  background: var(--nav-dropdown-color);
+  color: #fff;
+  padding: 70px 0;
+}
+
+.social .btn {
+  margin: 8px;
 }
 
 /*--------------------------------------------------------------
@@ -1133,6 +1356,7 @@ section,
   line-height: 24px;
   font-size: 14px;
   margin-bottom: 0;
+  color: var(--default-color);
 }
 
 .services .service-item:hover {
