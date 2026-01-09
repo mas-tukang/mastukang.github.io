@@ -1,0 +1,704 @@
+SOAL
+
+1. Bilangan 402.735 dibaca …
+A. Empat ratus dua ribu tujuh ratus tiga puluh lima
+B. Empat ratus dua ribu tujuh ratus lima puluh tiga
+C. Empat ratus dua ribu tujuh ratus tiga lima
+D. Empat ratus dua ribu tujuh tiga lima
+
+2. Nilai tempat angka 7 pada bilangan 572.419 adalah …
+A. Puluhan
+B. Ratusan
+C. Ribuan
+D. Puluhan ribu
+
+3. Angka 6 pada bilangan 368.245 bernilai …
+A. 6
+B. 60
+C. 600
+D. 6.000
+
+4. Bilangan terbesar adalah …
+A. 245.987
+B. 245.879
+C. 254.789
+D. 245.798
+
+5. Urutan bilangan dari terbesar ke terkecil adalah …
+A. 43.210, 43.201, 43.120
+B. 43.120, 43.210, 43.201
+C. 43.201, 43.120, 43.210
+D. 43.210, 43.120, 43.201
+
+6. 38.745 + 24.689 = …
+A. 63.334
+B. 63.434
+C. 63.534
+D. 63.634
+
+7. 90.000 − 47.856 = …
+A. 42.044
+B. 42.144
+C. 42.244
+D. 42.344
+
+8. 4.325 + 8.975 − 2.150 = …
+A. 11.050
+B. 11.150
+C. 11.250
+D. 11.350
+
+9. 600 × 7 = …
+A. 3.600
+B. 4.200
+C. 4.800
+D. 5.200
+
+10. 4.800 ÷ 6 = …
+A. 600
+B. 700
+C. 800
+D. 900
+
+11. 24 × 18 = …
+A. 402
+B. 412
+C. 432
+D. 452
+
+12. 720 ÷ 9 = …
+A. 70
+B. 75
+C. 80
+D. 85
+
+13. 15 × (20 − 8) = …
+A. 160
+B. 170
+C. 180
+D. 190
+
+14. 360 ÷ (6 × 5) = …
+A. 10
+B. 12
+C. 15
+D. 18
+
+15. Bilangan genap terbesar kurang dari 5.000 adalah …
+A. 4.996
+B. 4.997
+C. 4.998
+D. 4.999
+
+16. Bilangan ganjil terkecil lebih dari 2.000 adalah …
+A. 2.001
+B. 2.002
+C. 2.003
+D. 2.005
+
+17. Pecahan sederhana dari 18/30 adalah …
+A. 3/5
+B. 5/6
+C. 6/10
+D. 9/15
+
+18. Pecahan senilai dengan 4/6 adalah …
+A. 2/3
+B. 3/4
+C. 4/8
+D. 6/10
+
+19. Pecahan terbesar adalah …
+A. 5/8
+B. 3/4
+C. 2/3
+D. 4/7
+
+20. 3/4 dari 200 adalah …
+A. 120
+B. 130
+C. 140
+D. 150
+
+21. 2/5 dari 300 adalah …
+A. 100
+B. 110
+C. 120
+D. 130
+
+22. 25% dari 240 adalah …
+A. 50
+B. 55
+C. 60
+D. 65
+
+23. 0,5 dari 180 adalah …
+A. 80
+B. 90
+C. 100
+D. 110
+
+24. 1,25 km = … meter
+A. 125
+B. 1.025
+C. 1.250
+D. 12.500
+
+25. 3,5 kg = … gram
+A. 350
+B. 3.050
+C. 3.500
+D. 35.000
+
+26. 2 jam 30 menit = … menit
+A. 130
+B. 140
+C. 150
+D. 160
+
+27. 4 liter = … ml
+A. 400
+B. 1.000
+C. 2.000
+D. 4.000
+
+28. Keliling persegi dengan sisi 22 cm adalah …
+A. 80 cm
+B. 84 cm
+C. 88 cm
+D. 92 cm
+
+29. Luas persegi dengan sisi 16 cm adalah …
+A. 196 cm²
+B. 216 cm²
+C. 256 cm²
+D. 266 cm²
+
+30. Keliling persegi panjang p = 28 cm dan l = 14 cm adalah …
+A. 70 cm
+B. 76 cm
+C. 82 cm
+D. 84 cm
+
+31. Luas persegi panjang p = 25 cm dan l = 12 cm adalah …
+A. 275 cm²
+B. 285 cm²
+C. 300 cm²
+D. 325 cm²
+
+32. Luas segitiga alas 18 cm dan tinggi 14 cm adalah …
+A. 112 cm²
+B. 116 cm²
+C. 126 cm²
+D. 132 cm²
+
+33. Bangun datar yang memiliki dua pasang sisi sejajar adalah …
+A. Trapesium
+B. Layang-layang
+C. Jajar genjang
+D. Segitiga
+
+34. Bangun datar dengan semua sisi sama panjang dan sudut siku-siku adalah …
+A. Persegi panjang
+B. Persegi
+C. Belah ketupat
+D. Jajar genjang
+
+35. 1/2 + 1/4 = …
+A. 1/4
+B. 1/2
+C. 3/4
+D. 1
+
+36. 3/5 − 1/5 = …
+A. 1/5
+B. 2/5
+C. 3/10
+D. 4/5
+
+37. Rata-rata dari 20, 30, dan 50 adalah …
+A. 30
+B. 32
+C. 33
+D. 34
+
+38. Nilai tengah dari 10, 15, 20, 25, dan 30 adalah …
+A. 15
+B. 18
+C. 20
+D. 25
+
+39. Diagram yang paling tepat untuk membandingkan data adalah …
+A. Diagram garis
+B. Diagram batang
+C. Diagram lingkaran
+D. Piktogram
+
+40. Pola bilangan: 4, 8, 16, 32, …
+A. 48
+B. 56
+C. 64
+D. 72
+
+41. Pola bilangan: 100, 90, 80, …
+A. 60
+B. 65
+C. 70
+D. 75
+
+42. Pembulatan 7.648 ke ratusan terdekat adalah …
+A. 7.600
+B. 7.650
+C. 7.700
+D. 7.750
+
+43. Pembulatan 45.499 ke ribuan terdekat adalah …
+A. 44.000
+B. 45.000
+C. 46.000
+D. 47.000
+
+44. 3 lusin = …
+A. 24
+B. 30
+C. 36
+D. 48
+
+45. 2 gross = …
+A. 120
+B. 144
+C. 240
+D. 288
+
+46. 1/4 jam = … menit
+A. 10
+B. 15
+C. 20
+D. 25
+
+47. 1/2 hari = … jam
+A. 6
+B. 10
+C. 12
+D. 24
+
+48. Bilangan prima berikut adalah …
+A. 21
+B. 27
+C. 29
+D. 33
+
+49. Bilangan komposit berikut adalah …
+A. 13
+B. 17
+C. 19
+D. 21
+
+50. FPB dari 18 dan 24 adalah …
+A. 3
+B. 6
+C. 9
+D. 12
+
+51. KPK dari 6 dan 8 adalah …
+A. 12
+B. 18
+C. 24
+D. 48
+
+52. 45 × 20 ÷ 10 = …
+A. 80
+B. 90
+C. 100
+D. 110
+
+53. (60 + 40) ÷ 5 = …
+A. 15
+B. 18
+C. 20
+D. 25
+
+54. 1.200 − 6 × 125 = …
+A. 350
+B. 400
+C. 450
+D. 500
+
+55. 5 × 125 = …
+A. 525
+B. 600
+C. 625
+D. 650
+
+56. 1.000 ÷ 25 = …
+A. 25
+B. 30
+C. 40
+D. 50
+
+57. Panjang pita 15 m dipotong 4,75 m. Sisa pita adalah …
+A. 10 m
+B. 10,25 m
+C. 10,5 m
+D. 10,75 m
+
+58. Berat 2,4 kg dan 1,75 kg. Jumlah beratnya adalah …
+A. 3,95 kg
+B. 4,05 kg
+C. 4,15 kg
+D. 4,25 kg
+
+59. Jam menunjukkan pukul 09.40. Setelah 1 jam 35 menit adalah …
+A. 11.05
+B. 11.10
+C. 11.15
+D. 11.20
+
+60. Jarak 180 km ditempuh dalam 3 jam. Kecepatannya adalah …
+A. 50 km/jam
+B. 55 km/jam
+C. 60 km/jam
+D. 65 km/jam
+
+61. Bangun ruang yang memiliki 6 sisi berbentuk persegi adalah …
+A. Balok
+B. Prisma
+C. Kubus
+D. Limas
+
+62. Banyak rusuk kubus adalah …
+A. 8
+B. 10
+C. 12
+D. 14
+
+63. Bangun ruang yang memiliki alas dan tutup berbentuk lingkaran adalah …
+A. Kerucut
+B. Bola
+C. Tabung
+D. Prisma
+
+64. Bangun ruang yang hanya memiliki satu titik sudut adalah …
+A. Kerucut
+B. Bola
+C. Tabung
+D. Balok
+
+65. 20% dari 150 adalah …
+A. 20
+B. 25
+C. 30
+D. 35
+
+66. 75% dari 80 adalah …
+A. 50
+B. 55
+C. 60
+D. 65
+
+67. 0,25 dalam bentuk pecahan adalah …
+A. 1/2
+B. 1/3
+C. 1/4
+D. 2/5
+
+68. 3/10 dalam bentuk desimal adalah …
+A. 0,03
+B. 0,3
+C. 3,0
+D. 0,30
+
+69. Bilangan sebelum 10.000 adalah …
+A. 9.998
+B. 9.999
+C. 10.001
+D. 10.010
+
+70. Bilangan sesudah 49.999 adalah …
+A. 49.998
+B. 49.999
+C. 50.000
+D. 50.001
+
+71. 8 × 75 = …
+A. 500
+B. 550
+C. 600
+D. 650
+
+72. 900 ÷ 15 = …
+A. 50
+B. 55
+C. 60
+D. 65
+
+73. 6 × (12 + 8) = …
+A. 100
+B. 110
+C. 120
+D. 130
+
+74. 240 ÷ (6 + 4) = …
+A. 20
+B. 22
+C. 24
+D. 26
+
+75. Jumlah sudut segitiga adalah …
+A. 90°
+B. 120°
+C. 180°
+D. 360°
+
+76. Segitiga yang memiliki dua sisi sama panjang disebut …
+A. Sama sisi
+B. Sama kaki
+C. Siku-siku
+D. Sembarang
+
+77. Bangun datar yang tidak memiliki sudut adalah …
+A. Persegi
+B. Segitiga
+C. Lingkaran
+D. Trapesium
+
+78. Panjang sisi persegi jika kelilingnya 48 cm adalah …
+A. 10 cm
+B. 11 cm
+C. 12 cm
+D. 13 cm
+
+79. Luas persegi panjang dengan keliling 60 cm dan lebar 10 cm adalah …
+A. 200 cm²
+B. 250 cm²
+C. 300 cm²
+D. 350 cm²
+
+80. Luas segitiga siku-siku dengan alas 12 cm dan tinggi 10 cm adalah …
+A. 50 cm²
+B. 55 cm²
+C. 60 cm²
+D. 65 cm²
+
+81. Rata-rata dari 10, 20, 30, 40, dan 50 adalah …
+A. 25
+B. 30
+C. 35
+D. 40
+
+82. Modus dari data 2, 3, 4, 4, 5, 6 adalah …
+A. 2
+B. 3
+C. 4
+D. 5
+
+83. Diagram yang cocok untuk menunjukkan persentase adalah …
+A. Diagram batang
+B. Diagram garis
+C. Diagram lingkaran
+D. Piktogram
+
+84. Pecahan yang senilai dengan 6/8 adalah …
+A. 2/3
+B. 3/4
+C. 4/5
+D. 5/6
+
+85. 5/6 dari 180 adalah …
+A. 130
+B. 140
+C. 150
+D. 160
+
+86. 4 × 125 = …
+A. 400
+B. 450
+C. 500
+D. 525
+
+87. 1.500 ÷ 25 = …
+A. 50
+B. 55
+C. 60
+D. 65
+
+88. (100 − 25) × 4 = …
+A. 250
+B. 275
+C. 300
+D. 325
+
+89. 2.000 − (3 × 250) = …
+A. 1.150
+B. 1.250
+C. 1.350
+D. 1.500
+
+90. 600 + 8 × 50 = …
+A. 900
+B. 950
+C. 1.000
+D. 1.050
+
+91. Panjang kain 12,5 m digunakan 7,75 m. Sisa kain adalah …
+A. 4,25 m
+B. 4,5 m
+C. 4,75 m
+D. 5 m
+
+92. Berat total 3 karung masing-masing 12,5 kg adalah …
+A. 36,5 kg
+B. 37 kg
+C. 37,5 kg
+D. 38 kg
+
+93. 10% dari 450 adalah …
+A. 40
+B. 45
+C. 50
+D. 55
+
+94. 50% dari 360 adalah …
+A. 160
+B. 170
+C. 180
+D. 190
+
+95. 0,2 dari 250 adalah …
+A. 40
+B. 45
+C. 50
+D. 55
+
+96. 3/8 + 1/8 = …
+A. 1/4
+B. 1/2
+C. 3/4
+D. 1
+
+97. 5/6 − 2/6 = …
+A. 1/6
+B. 2/6
+C. 3/6
+D. 4/6
+
+98. FPB dari 20 dan 30 adalah …
+A. 5
+B. 10
+C. 15
+D. 20
+
+99. KPK dari 10 dan 12 adalah …
+A. 30
+B. 40
+C. 50
+D. 60
+
+100. Diagram yang paling tepat untuk menunjukkan perkembangan suhu harian adalah …
+A. Diagram batang
+B. Diagram garis
+C. Diagram lingkaran
+D. Piktogram
+
+KUNCI JAWABAN
+
+1. A
+2. D
+3. C
+4. C
+5. A
+6. C
+7. A
+8. C
+9. B
+10. C
+11. C
+12. C
+13. C
+14. C
+15. C
+16. A
+17. A
+18. A
+19. B
+20. D
+21. C
+22. C
+23. B
+24. C
+25. C
+26. C
+27. D
+28. C
+29. C
+30. B
+31. C
+32. C
+33. C
+34. B
+35. C
+36. B
+37. A
+38. C
+39. B
+40. C
+41. C
+42. A
+43. B
+44. C
+45. D
+46. B
+47. C
+48. C
+49. D
+50. B
+51. C
+52. B
+53. C
+54. B
+55. C
+56. C
+57. C
+58. C
+59. C
+60. C
+61. C
+62. C
+63. C
+64. A
+65. C
+66. C
+67. C
+68. B
+69. B
+70. C
+71. C
+72. C
+73. C
+74. A
+75. C
+76. B
+77. C
+78. C
+79. C
+80. C
+81. B
+82. C
+83. C
+84. B
+85. C
+86. C
+87. C
+88. C
+89. B
+90. C
+91. C
+92. C
+93. B
+94. C
+95. C
+96. B
+97. C
+98. B
+99. D
+100. B

@@ -1,0 +1,704 @@
+SOAL
+
+1. Bilangan 245 dibaca …
+A. Dua ratus empat lima
+B. Dua ratus lima empat
+C. Dua empat lima
+D. Dua ratus lima
+
+2. Nilai tempat angka 7 pada bilangan 372 adalah …
+A. Satuan
+B. Puluhan
+C. Ratusan
+D. Ribuan
+
+3. Angka ratusan dari 684 adalah …
+A. 4
+B. 8
+C. 6
+D. 84
+
+4. Bilangan yang lebih besar dari 498 adalah …
+A. 489
+B. 495
+C. 500
+D. 480
+
+5. Urutan bilangan dari kecil ke besar yang benar adalah …
+A. 321, 312, 231
+B. 231, 312, 321
+C. 312, 231, 321
+D. 321, 231, 312
+
+6. 400 + 200 = …
+A. 500
+B. 600
+C. 700
+D. 800
+
+7. Bilangan sebelum 600 adalah …
+A. 601
+B. 599
+C. 598
+D. 610
+
+8. Bilangan sesudah 799 adalah …
+A. 798
+B. 800
+C. 801
+D. 700
+
+9. 125 dibulatkan ke ratusan terdekat menjadi …
+A. 100
+B. 120
+C. 130
+D. 200
+
+10. Bilangan genap di bawah ini adalah …
+A. 235
+B. 347
+C. 468
+D. 579
+
+11. 34 + 25 = …
+A. 49
+B. 59
+C. 69
+D. 79
+
+12. 56 + 14 = …
+A. 60
+B. 65
+C. 70
+D. 80
+
+13. 128 + 71 = …
+A. 189
+B. 199
+C. 209
+D. 219
+
+14. 245 + 155 = …
+A. 300
+B. 350
+C. 400
+D. 450
+
+15. 67 + 23 = …
+A. 80
+B. 85
+C. 90
+D. 100
+
+16. Hasil dari 300 + 45 adalah …
+A. 345
+B. 350
+C. 355
+D. 365
+
+17. 89 + 11 = …
+A. 90
+B. 95
+C. 100
+D. 110
+
+18. 214 + 86 = …
+A. 280
+B. 290
+C. 300
+D. 310
+
+19. 405 + 95 = …
+A. 490
+B. 500
+C. 510
+D. 600
+
+20. 123 + 277 = …
+A. 390
+B. 400
+C. 410
+D. 420
+
+21. 50 − 25 = …
+A. 15
+B. 20
+C. 25
+D. 30
+
+22. 80 − 35 = …
+A. 45
+B. 55
+C. 60
+D. 65
+
+23. 100 − 48 = …
+A. 42
+B. 52
+C. 58
+D. 62
+
+24. 300 − 125 = …
+A. 165
+B. 175
+C. 185
+D. 195
+
+25. 90 − 27 = …
+A. 53
+B. 63
+C. 73
+D. 83
+
+26. 500 − 250 = …
+A. 200
+B. 250
+C. 300
+D. 350
+
+27. 74 − 29 = …
+A. 35
+B. 45
+C. 55
+D. 65
+
+28. 1000 − 400 = …
+A. 500
+B. 600
+C. 700
+D. 800
+
+29. 365 − 165 = …
+A. 100
+B. 150
+C. 200
+D. 250
+
+30. 420 − 120 = …
+A. 200
+B. 250
+C. 300
+D. 320
+
+31. 2 × 5 = …
+A. 7
+B. 8
+C. 10
+D. 12
+
+32. 4 × 6 = …
+A. 18
+B. 20
+C. 24
+D. 26
+
+33. 3 × 9 = …
+A. 18
+B. 21
+C. 24
+D. 27
+
+34. 20 ÷ 5 = …
+A. 2
+B. 3
+C. 4
+D. 5
+
+35. 18 ÷ 3 = …
+A. 5
+B. 6
+C. 7
+D. 8
+
+36. 5 × 7 = …
+A. 30
+B. 32
+C. 35
+D. 40
+
+37. 16 ÷ 4 = …
+A. 2
+B. 3
+C. 4
+D. 5
+
+38. 6 × 8 = …
+A. 42
+B. 46
+C. 48
+D. 56
+
+39. 24 ÷ 6 = …
+A. 2
+B. 3
+C. 4
+D. 6
+
+40. 10 × 4 = …
+A. 20
+B. 30
+C. 40
+D. 50
+
+41. Bangun yang memiliki 3 sisi adalah …
+A. Persegi
+B. Persegi panjang
+C. Segitiga
+D. Lingkaran
+
+42. Bangun yang memiliki 4 sisi sama panjang adalah …
+A. Segitiga
+B. Lingkaran
+C. Persegi
+D. Jajar genjang
+
+43. Lingkaran memiliki … sudut
+A. 0
+B. 1
+C. 2
+D. 4
+
+44. Persegi panjang memiliki … sisi
+A. 2
+B. 3
+C. 4
+D. 5
+
+45. Bangun yang tidak memiliki sisi adalah …
+A. Persegi
+B. Segitiga
+C. Lingkaran
+D. Trapesium
+
+46. Segitiga memiliki … sudut
+A. 2
+B. 3
+C. 4
+D. 5
+
+47. Bangun yang sisi berhadapan sama panjang adalah …
+A. Persegi
+B. Lingkaran
+C. Persegi panjang
+D. Segitiga
+
+48. Contoh benda berbentuk lingkaran adalah …
+A. Buku
+B. Pintu
+C. Jam dinding
+D. Papan tulis
+
+49. Contoh benda berbentuk persegi panjang adalah …
+A. Kelereng
+B. Buku
+C. Bola
+D. Roda
+
+50. Bangun datar yang memiliki 4 sudut adalah …
+A. Segitiga
+B. Lingkaran
+C. Persegi
+D. Setengah lingkaran
+
+51. Alat untuk mengukur panjang adalah …
+A. Timbangan
+B. Jam
+C. Penggaris
+D. Gelas ukur
+
+52. Satuan panjang berikut adalah …
+A. Liter
+B. Kilogram
+C. Meter
+D. Jam
+
+53. Alat untuk mengukur berat adalah …
+A. Penggaris
+B. Jam
+C. Timbangan
+D. Meteran
+
+54. Satuan berat adalah …
+A. Meter
+B. Liter
+C. Kilogram
+D. Detik
+
+55. Jam digunakan untuk mengukur …
+A. Berat
+B. Panjang
+C. Waktu
+D. Suhu
+
+56. 1 meter = … cm
+A. 10
+B. 50
+C. 100
+D. 1000
+
+57. 1 kilogram = … gram
+A. 100
+B. 500
+C. 1000
+D. 10.000
+
+58. Alat untuk mengukur waktu adalah …
+A. Jam
+B. Timbangan
+C. Penggaris
+D. Gelas ukur
+
+59. Jika berat apel 2 kg dan jeruk 3 kg, maka total beratnya …
+A. 4 kg
+B. 5 kg
+C. 6 kg
+D. 7 kg
+
+60. Botol air diukur menggunakan satuan …
+A. Meter
+B. Liter
+C. Gram
+D. Jam
+
+61. Ani memiliki 35 kelereng. Diberi 15 kelereng oleh Budi. Jumlah kelereng Ani sekarang adalah …
+A. 40
+B. 45
+C. 50
+D. 55
+
+62. Ibu membeli 60 permen. Dibagikan kepada anaknya 20 permen. Sisa permen ibu adalah …
+A. 30
+B. 35
+C. 40
+D. 45
+
+63. Di kelas ada 24 siswa. Mereka dibagi menjadi 4 kelompok sama banyak. Tiap kelompok berisi … siswa
+A. 4
+B. 5
+C. 6
+D. 8
+
+64. Siti membaca buku selama 30 menit, lalu membaca lagi 25 menit. Lama membaca Siti adalah …
+A. 45 menit
+B. 50 menit
+C. 55 menit
+D. 60 menit
+
+65. Ayah memiliki 5 kotak. Setiap kotak berisi 6 jeruk. Jumlah jeruk ayah adalah …
+A. 25
+B. 30
+C. 35
+D. 40
+
+66. Rani memiliki 100 stiker. Ia memberikan 38 stiker kepada temannya. Sisa stiker Rani adalah …
+A. 52
+B. 62
+C. 72
+D. 82
+
+67. Panjang pita merah 80 cm dan pita biru 40 cm. Selisih panjang pita adalah …
+A. 30 cm
+B. 40 cm
+C. 50 cm
+D. 60 cm
+
+68. Di rak ada 7 baris buku. Setiap baris berisi 8 buku. Jumlah buku di rak adalah …
+A. 48
+B. 54
+C. 56
+D. 64
+
+69. Ibu membeli 1 kg gula dan 2 kg tepung. Total berat belanja ibu adalah …
+A. 2 kg
+B. 3 kg
+C. 4 kg
+D. 5 kg
+
+70. Jam menunjukkan pukul 07.00. Setelah 2 jam, jam menunjukkan pukul …
+A. 08.00
+B. 09.00
+C. 10.00
+D. 11.00
+
+71. 9 + 8 × 2 = …
+A. 25
+B. 26
+C. 34
+D. 17
+
+72. 50 − (10 + 15) = …
+A. 20
+B. 25
+C. 30
+D. 35
+
+73. Bilangan terbesar adalah …
+A. 389
+B. 398
+C. 389
+D. 399
+
+74. 6 × 5 − 10 = …
+A. 10
+B. 15
+C. 20
+D. 30
+
+75. 72 ÷ 8 + 4 = …
+A. 10
+B. 12
+C. 13
+D. 14
+
+76. 400 + 300 − 200 = …
+A. 400
+B. 450
+C. 500
+D. 600
+
+77. 9 × 4 ÷ 6 = …
+A. 4
+B. 5
+C. 6
+D. 8
+
+78. 1000 − 600 + 50 = …
+A. 350
+B. 400
+C. 450
+D. 500
+
+79. 3 × (4 + 2) = …
+A. 12
+B. 15
+C. 18
+D. 20
+
+80. 84 ÷ (7 − 1) = …
+A. 12
+B. 14
+C. 16
+D. 18
+
+81. Bilangan yang jika ditambah 125 hasilnya 500 adalah …
+A. 350
+B. 365
+C. 375
+D. 385
+
+82. Hasil dari 999 − 499 adalah …
+A. 400
+B. 450
+C. 500
+D. 550
+
+83. 8 × 6 − 12 = …
+A. 24
+B. 36
+C. 48
+D. 60
+
+84. 72 ÷ 9 × 5 = …
+A. 30
+B. 35
+C. 40
+D. 45
+
+85. Bilangan yang tepat untuk melengkapi: 150, 200, ___, 300
+A. 225
+B. 240
+C. 250
+D. 260
+
+86. Jumlah dari 345 dan bilangan sebelumnya adalah …
+A. 688
+B. 689
+C. 690
+D. 691
+
+87. 5 lusin = …
+A. 50
+B. 55
+C. 60
+D. 65
+
+88. Setengah dari 80 adalah …
+A. 30
+B. 35
+C. 40
+D. 45
+
+89. Sepertiga dari 30 adalah …
+A. 5
+B. 10
+C. 15
+D. 20
+
+90. 7 × 7 + 1 = …
+A. 48
+B. 49
+C. 50
+D. 51
+
+91. Bilangan ganjil di bawah ini adalah …
+A. 420
+B. 534
+C. 615
+D. 800
+
+92. 4 anak mendapat masing-masing 9 permen. Jumlah permen seluruhnya …
+A. 32
+B. 34
+C. 36
+D. 38
+
+93. Jika hari ini hari Senin, maka 3 hari lagi adalah hari …
+A. Selasa
+B. Rabu
+C. Kamis
+D. Jumat
+
+94. Panjang meja 120 cm. Panjang kursi 80 cm. Selisih panjangnya …
+A. 20 cm
+B. 30 cm
+C. 40 cm
+D. 50 cm
+
+95. 2 jam = … menit
+A. 60
+B. 90
+C. 120
+D. 150
+
+96. Jumlah sisi segitiga dan persegi adalah …
+A. 5
+B. 6
+C. 7
+D. 8
+
+97. Bilangan yang habis dibagi 5 adalah …
+A. 32
+B. 45
+C. 67
+D. 78
+
+98. 1 kg gula dibagi menjadi 4 bagian sama berat. Setiap bagian beratnya …
+A. 100 g
+B. 200 g
+C. 250 g
+D. 500 g
+
+99. 10 × 10 − 50 = …
+A. 40
+B. 50
+C. 60
+D. 70
+
+100. 300 − 3 × 50 = …
+A. 100
+B. 150
+C. 200
+D. 250
+
+KUNCI JAWABAN
+
+1. A
+2. B
+3. C
+4. C
+5. B
+6. B
+7. B
+8. B
+9. A
+10. C
+11. B
+12. C
+13. B
+14. C
+15. C
+16. A
+17. C
+18. C
+19. B
+20. B
+21. C
+22. A
+23. B
+24. B
+25. B
+26. B
+27. B
+28. B
+29. C
+30. C
+31. C
+32. C
+33. D
+34. C
+35. B
+36. C
+37. C
+38. C
+39. C
+40. C
+41. C
+42. C
+43. A
+44. C
+45. C
+46. B
+47. C
+48. C
+49. B
+50. C
+51. C
+52. C
+53. C
+54. C
+55. C
+56. C
+57. C
+58. A
+59. B
+60. B
+61. C
+62. C
+63. C
+64. C
+65. B
+66. B
+67. B
+68. C
+69. B
+70. B
+71. D
+72. C
+73. D
+74. C
+75. B
+76. C
+77. A
+78. C
+79. C
+80. A
+81. C
+82. C
+83. A
+84. C
+85. C
+86. C
+87. C
+88. C
+89. B
+90. C
+91. C
+92. C
+93. C
+94. C
+95. C
+96. C
+97. B
+98. C
+99. B
+100. B

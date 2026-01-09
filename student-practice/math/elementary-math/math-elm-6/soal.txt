@@ -1,0 +1,704 @@
+SOAL
+
+1. Bilangan 3.456.789 dibaca …
+A. Tiga juta empat ratus lima puluh enam ribu tujuh ratus delapan puluh sembilan
+B. Tiga juta empat ratus enam puluh lima ribu tujuh ratus delapan puluh sembilan
+C. Tiga juta empat lima enam ribu tujuh delapan sembilan
+D. Tiga juta empat ratus lima ribu enam ratus tujuh puluh delapan
+
+2. Nilai tempat angka 7 pada bilangan 7.845.210 adalah …
+A. Satuan
+B. Puluhan
+C. Ratusan ribu
+D. Jutaan
+
+3. Bilangan terbesar berikut adalah …
+A. 1.245.678
+B. 1.254.678
+C. 1.245.876
+D. 1.245.687
+
+4. Pembulatan 4.678.432 ke ratusan ribu terdekat adalah …
+A. 4.600.000
+B. 4.650.000
+C. 4.700.000
+D. 4.800.000
+
+5. 245.678 + 154.322 = …
+A. 390.000
+B. 399.000
+C. 400.000
+D. 410.000
+
+6. 1.000.000 − 378.945 = …
+A. 621.055
+B. 622.055
+C. 623.055
+D. 624.055
+
+7. 456.789 − 189.654 = …
+A. 267.035
+B. 267.135
+C. 267.235
+D. 267.335
+
+8. 48 × 125 = …
+A. 5.500
+B. 5.750
+C. 6.000
+D. 6.250
+
+9. 64 × 75 = …
+A. 4.600
+B. 4.700
+C. 4.800
+D. 4.900
+
+10. 3.600 ÷ 45 = …
+A. 60
+B. 70
+C. 80
+D. 90
+
+11. 4.200 ÷ 35 = …
+A. 100
+B. 110
+C. 120
+D. 130
+
+12. 1.260 ÷ 18 = …
+A. 60
+B. 65
+C. 70
+D. 75
+
+13. 15% dari 400 adalah …
+A. 40
+B. 50
+C. 60
+D. 70
+
+14. 25% dari 360 adalah …
+A. 80
+B. 85
+C. 90
+D. 95
+
+15. 0,75 × 200 = …
+A. 120
+B. 130
+C. 140
+D. 150
+
+16. Pecahan sederhana dari 36/48 adalah …
+A. 2/3
+B. 3/4
+C. 4/5
+D. 5/6
+
+17. Hasil dari 2/3 + 1/6 adalah …
+A. 1/2
+B. 2/3
+C. 5/6
+D. 1
+
+18. Hasil dari 5/8 − 1/4 adalah …
+A. 1/8
+B. 3/8
+C. 1/2
+D. 5/8
+
+19. 3/5 dari 250 adalah …
+A. 130
+B. 140
+C. 150
+D. 160
+
+20. 7/10 dari 500 adalah …
+A. 300
+B. 320
+C. 350
+D. 380
+
+21. Keliling lingkaran dengan r = 7 cm (π = 22/7) adalah …
+A. 22 cm
+B. 44 cm
+C. 88 cm
+D. 154 cm
+
+22. Luas lingkaran dengan r = 14 cm (π = 22/7) adalah …
+A. 308 cm²
+B. 504 cm²
+C. 616 cm²
+D. 704 cm²
+
+23. Volume kubus dengan sisi 8 cm adalah …
+A. 256 cm³
+B. 384 cm³
+C. 512 cm³
+D. 640 cm³
+
+24. Volume balok p = 10 cm, l = 8 cm, t = 6 cm adalah …
+A. 360 cm³
+B. 420 cm³
+C. 480 cm³
+D. 560 cm³
+
+25. Volume tabung r = 7 cm, t = 10 cm (π = 22/7) adalah …
+A. 1.320 cm³
+B. 1.440 cm³
+C. 1.540 cm³
+D. 1.680 cm³
+
+26. Banyak sisi pada prisma segitiga adalah …
+A. 4
+B. 5
+C. 6
+D. 7
+
+27. Banyak rusuk limas segiempat adalah …
+A. 6
+B. 8
+C. 10
+D. 12
+
+28. Bangun ruang yang tidak memiliki rusuk adalah …
+A. Kubus
+B. Balok
+C. Kerucut
+D. Bola
+
+29. 2,5 km = … meter
+A. 250
+B. 2.500
+C. 25.000
+D. 250.000
+
+30. 4,75 liter = … ml
+A. 475
+B. 4.750
+C. 47.500
+D. 475.000
+
+31. 3 jam 40 menit = … menit
+A. 200
+B. 210
+C. 220
+D. 230
+
+32. 5 kg 250 g = … gram
+A. 5.025
+B. 5.150
+C. 5.250
+D. 5.500
+
+33. Rata-rata dari 60, 70, 80, dan 90 adalah …
+A. 70
+B. 75
+C. 80
+D. 85
+
+34. Median dari 12, 14, 18, 20, dan 26 adalah …
+A. 14
+B. 16
+C. 18
+D. 20
+
+35. Modus dari data 5, 7, 7, 8, 9, 7, 10 adalah …
+A. 5
+B. 7
+C. 8
+D. 9
+
+36. Diagram yang cocok untuk menunjukkan perubahan waktu adalah …
+A. Diagram batang
+B. Diagram garis
+C. Diagram lingkaran
+D. Piktogram
+
+37. Bilangan prima berikut adalah …
+A. 21
+B. 29
+C. 35
+D. 49
+
+38. Bilangan komposit berikut adalah …
+A. 11
+B. 13
+C. 17
+D. 21
+
+39. FPB dari 36 dan 48 adalah …
+A. 6
+B. 8
+C. 12
+D. 16
+
+40. KPK dari 12 dan 18 adalah …
+A. 24
+B. 36
+C. 48
+D. 72
+
+41. Pola bilangan: 2, 6, 18, 54, …
+A. 72
+B. 96
+C. 108
+D. 162
+
+42. Pola bilangan: 1.000, 900, 800, …
+A. 600
+B. 650
+C. 700
+D. 750
+
+43. 6 × (25 + 15) = …
+A. 200
+B. 220
+C. 240
+D. 260
+
+44. 500 − 6 × 45 = …
+A. 210
+B. 220
+C. 230
+D. 240
+
+45. (120 + 60) ÷ 6 = …
+A. 20
+B. 25
+C. 30
+D. 35
+
+46. 900 ÷ (5 × 6) = …
+A. 20
+B. 25
+C. 30
+D. 35
+
+47. Bilangan ganjil terbesar kurang dari 1.000 adalah …
+A. 997
+B. 998
+C. 999
+D. 1.001
+
+48. Bilangan genap terkecil lebih dari 5.000 adalah …
+A. 5.000
+B. 5.002
+C. 5.004
+D. 5.010
+
+49. 40% dari 750 adalah …
+A. 250
+B. 280
+C. 300
+D. 320
+
+50. 12,5% dari 800 adalah …
+A. 80
+B. 90
+C. 100
+D. 120
+
+51. Sebuah persegi memiliki keliling 64 cm. Panjang sisinya adalah …
+A. 12 cm
+B. 14 cm
+C. 16 cm
+D. 18 cm
+
+52. Luas persegi panjang p = 20 cm dan l = 15 cm adalah …
+A. 250 cm²
+B. 280 cm²
+C. 300 cm²
+D. 350 cm²
+
+53. Luas segitiga alas 24 cm dan tinggi 16 cm adalah …
+A. 176 cm²
+B. 182 cm²
+C. 192 cm²
+D. 204 cm²
+
+54. Keliling persegi panjang p = 18 cm dan l = 12 cm adalah …
+A. 50 cm
+B. 55 cm
+C. 60 cm
+D. 65 cm
+
+55. Panjang pita 12 m dipotong 3,75 m. Sisa pita adalah …
+A. 7,25 m
+B. 8,25 m
+C. 8,5 m
+D. 9,25 m
+
+56. Berat 2,5 kg gula dan 1,75 kg tepung. Total beratnya adalah …
+A. 3,75 kg
+B. 4,00 kg
+C. 4,25 kg
+D. 4,50 kg
+
+57. Jam menunjukkan pukul 08.30. Setelah 2 jam 45 menit adalah …
+A. 10.45
+B. 11.00
+C. 11.15
+D. 11.30
+
+58. 1 lusin + 2 gross = …
+A. 276
+B. 288
+C. 300
+D. 312
+
+59. Setengah dari 4.800 adalah …
+A. 2.200
+B. 2.300
+C. 2.400
+D. 2.500
+
+60. Seperempat dari 3.600 adalah …
+A. 800
+B. 850
+C. 900
+D. 950
+
+61. Bilangan yang habis dibagi 6 adalah …
+A. 128
+B. 132
+C. 135
+D. 137
+
+62. Bilangan kelipatan 9 adalah …
+A. 64
+B. 72
+C. 88
+D. 92
+
+63. 15 × 24 = …
+A. 320
+B. 340
+C. 360
+D. 380
+
+64. 960 ÷ 16 = …
+A. 50
+B. 55
+C. 60
+D. 65
+
+65. 7² + 5² = …
+A. 49
+B. 74
+C. 84
+D. 98
+
+66. 10³ − 125 = …
+A. 825
+B. 850
+C. 875
+D. 900
+
+67. Perbandingan 2 : 5 setara dengan …
+A. 4 : 8
+B. 6 : 15
+C. 8 : 15
+D. 10 : 12
+
+68. Perbandingan sederhana dari 12 : 18 adalah …
+A. 2 : 3
+B. 3 : 4
+C. 4 : 5
+D. 6 : 9
+
+69. Skala 1 : 200 berarti …
+A. 1 cm = 20 m
+B. 1 cm = 200 cm
+C. 1 cm = 2 m
+D. 1 cm = 200 m
+
+70. Jarak pada peta 5 cm dengan skala 1 : 1.000 adalah …
+A. 5 m
+B. 50 m
+C. 500 m
+D. 5 km
+
+71. Debit air 10 liter/menit selama 15 menit menghasilkan volume …
+A. 100 liter
+B. 120 liter
+C. 150 liter
+D. 200 liter
+
+72. Sebuah bak berisi 600 liter air dikuras dengan debit 20 liter/menit. Waktu yang dibutuhkan adalah …
+A. 20 menit
+B. 25 menit
+C. 30 menit
+D. 35 menit
+
+73. Kecepatan = …
+A. Jarak × waktu
+B. Jarak ÷ waktu
+C. Waktu ÷ jarak
+D. Jarak + waktu
+
+74. Jarak 120 km ditempuh dalam 3 jam. Kecepatannya adalah …
+A. 30 km/jam
+B. 35 km/jam
+C. 40 km/jam
+D. 45 km/jam
+
+75. Waktu = …
+A. Jarak ÷ kecepatan
+B. Jarak × kecepatan
+C. Kecepatan ÷ jarak
+D. Kecepatan × jarak
+
+76. Jika kecepatan 60 km/jam dan jarak 180 km, waktu tempuhnya adalah …
+A. 2 jam
+B. 2,5 jam
+C. 3 jam
+D. 3,5 jam
+
+77. Bangun datar yang semua sisinya sama panjang dan semua sudut siku-siku adalah …
+A. Persegi panjang
+B. Jajar genjang
+C. Persegi
+D. Belah ketupat
+
+78. Bangun datar dengan dua pasang sisi sejajar dan sama panjang adalah …
+A. Trapesium
+B. Layang-layang
+C. Jajar genjang
+D. Lingkaran
+
+79. Jumlah sudut segitiga adalah …
+A. 90°
+B. 120°
+C. 180°
+D. 360°
+
+80. Segitiga yang memiliki satu sudut 90° disebut …
+A. Segitiga sama sisi
+B. Segitiga sama kaki
+C. Segitiga lancip
+D. Segitiga siku-siku
+
+81. 6,25 = … %
+A. 6,25%
+B. 62,5%
+C. 625%
+D. 0,625%
+
+82. 0,4 = … %
+A. 4%
+B. 40%
+C. 400%
+D. 0,4%
+
+83. 3/8 dalam bentuk desimal adalah …
+A. 0,25
+B. 0,375
+C. 0,5
+D. 0,75
+
+84. 0,6 dalam bentuk pecahan adalah …
+A. 3/5
+B. 5/6
+C. 6/10
+D. 2/3
+
+85. Bilangan berpangkat 2 dari 9 adalah …
+A. 18
+B. 27
+C. 81
+D. 162
+
+86. √144 = …
+A. 10
+B. 11
+C. 12
+D. 13
+
+87. √196 = …
+A. 12
+B. 13
+C. 14
+D. 15
+
+88. Bilangan yang merupakan kuadrat sempurna adalah …
+A. 45
+B. 64
+C. 75
+D. 98
+
+89. FPB dari 24, 36, dan 48 adalah …
+A. 6
+B. 8
+C. 12
+D. 24
+
+90. KPK dari 6, 8, dan 12 adalah …
+A. 12
+B. 18
+C. 24
+D. 48
+
+91. 2³ × 5² = …
+A. 100
+B. 150
+C. 200
+D. 250
+
+92. 4² + 6² = …
+A. 36
+B. 48
+C. 52
+D. 64
+
+93. 1/2 + 3/4 = …
+A. 1
+B. 1 1/4
+C. 1 1/2
+D. 2
+
+94. 5/6 − 1/3 = …
+A. 1/6
+B. 1/3
+C. 1/2
+D. 2/3
+
+95. 2.400 − (3/4 × 800) = …
+A. 1.600
+B. 1.800
+C. 2.000
+D. 2.200
+
+96. (2/5 × 500) + 150 = …
+A. 300
+B. 350
+C. 400
+D. 450
+
+97. Rata-rata dari 20, 30, 40, 50, dan 60 adalah …
+A. 30
+B. 35
+C. 40
+D. 45
+
+98. Median dari 5, 10, 15, 20, dan 25 adalah …
+A. 10
+B. 12,5
+C. 15
+D. 20
+
+99. Modus dari data 2, 3, 4, 4, 5, 6, 4 adalah …
+A. 2
+B. 3
+C. 4
+D. 5
+
+100. Diagram yang paling tepat untuk menunjukkan persentase adalah …
+A. Diagram batang
+B. Diagram garis
+C. Diagram lingkaran
+D. Piktogram
+
+KUNCI JAWABAN
+
+1. A
+2. D
+3. B
+4. C
+5. C
+6. A
+7. C
+8. C
+9. C
+10. C
+11. C
+12. C
+13. C
+14. C
+15. D
+16. B
+17. C
+18. B
+19. C
+20. C
+21. B
+22. C
+23. C
+24. C
+25. B
+26. C
+27. C
+28. D
+29. B
+30. B
+31. C
+32. C
+33. B
+34. C
+35. B
+36. B
+37. B
+38. D
+39. C
+40. B
+41. D
+42. C
+43. C
+44. B
+45. C
+46. C
+47. C
+48. B
+49. C
+50. C
+51. C
+52. C
+53. C
+54. C
+55. B
+56. C
+57. C
+58. B
+59. C
+60. C
+61. B
+62. B
+63. C
+64. C
+65. B
+66. C
+67. B
+68. A
+69. B
+70. C
+71. C
+72. C
+73. B
+74. C
+75. A
+76. C
+77. C
+78. C
+79. C
+80. D
+81. B
+82. B
+83. B
+84. A
+85. C
+86. C
+87. C
+88. B
+89. C
+90. C
+91. C
+92. C
+93. B
+94. C
+95. B
+96. B
+97. C
+98. C
+99. C
+100. C

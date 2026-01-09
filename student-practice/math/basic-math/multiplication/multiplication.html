@@ -1,64 +1,63 @@
 <!DOCTYPE html>
 <html lang="id">
+
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Latihan Perkalian</title>
   <link rel="stylesheet" href="../style.css">
 </head>
+
 <body>
 
-<div class="container">
+  <div class="back-btn">
+    <button onclick="location.href='../basic-math-home.html'">
+      ⬅️ Kembali ke Latihan Berhitung Dasar
+    </button>
+  </div>
 
-<div class="back-btn">
-  <button onclick="location.href='../basic-math-home.html'">
-    ⬅️ Kembali ke Home
-  </button>
-</div>
+  <div class="container">
 
-  <h1>✖️ Latihan Perkalian ✖️</h1>
+    <h1>✖️ Latihan Perkalian ✖️</h1>
 
-  <!-- PENGATURAN -->
-  <div class="settings">
-    <h2>Silakan Pilih:</h2>
+    <!-- PENGATURAN -->
+    <div class="settings">
+      <h2>Silakan Pilih:</h2>
 
-    <label>
-      Tingkat Kesulitan:
-      <select id="difficulty">
-        <option value="easy">🟢Mudah</option>
+      <label>
+        Tingkat Kesulitan:
+        <select id="difficulty">
+          <option value="easy">🟢Mudah</option>
           <option value="medium">🟡Sedang</option>
           <option value="hard">🔴Sulit</option>
-      </select>
-    </label>
+        </select>
+      </label>
 
-    <label>
-      Jumlah Soal:
-      <input id="totalQuestionsInput" type="number" value="10" min="1">
-    </label>
+      <label>
+        Jumlah Soal:
+        <input id="totalQuestionsInput" type="number" value="10" min="1">
+      </label>
 
-    <button id="startBtn">🚀 Mulai</button>
-  </div>
-
-  <!-- AREA GAME -->
-  <div id="gameArea" class="hidden">
-    <div class="question" id="question"></div>
-
-    <input
-      type="number"
-      id="answer"
-      placeholder="Ketik jawaban..."
-    />
-
-    <button id="checkBtn">✅ Cek Jawaban</button>
-
-    <div class="timer">
-      ⏰ Sisa waktu: <span id="time"></span> detik
+      <button id="startBtn">🚀 Mulai</button>
     </div>
 
-    <div class="message" id="message"></div>
-  </div>
-</div>
+    <!-- AREA GAME -->
+    <div id="gameArea" class="hidden">
+      <div class="question" id="question"></div>
 
-<script src="script.js"></script>
+      <input type="number" id="answer" placeholder="Ketik jawaban..." />
+
+      <button id="checkBtn">✅ Cek Jawaban</button>
+
+      <div class="timer">
+        ⏰ Sisa waktu: <span id="time"></span> detik
+      </div>
+
+      <div class="message" id="message"></div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
 </body>
+
 </html>
