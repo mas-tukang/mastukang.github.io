@@ -1,0 +1,704 @@
+SOAL:
+
+1. "Go straight and turn right at the junction." The word 'turn right' means...
+A. Belok kiri
+B. Belok kanan
+C. Jalan lurus
+D. Berputar arah
+
+2. "The hospital is ... the post office." (Di seberang)
+A. beside
+B. opposite
+C. behind
+D. between
+
+3. "What is 'Utara' in English?"
+A. South
+B. West
+C. North
+D. East
+
+4. "The sun rises in the East and sets in the ..."
+A. North
+B. South
+C. West
+D. Northwest
+
+5. "Where is the mosque?" (Di antara bank dan sekolah)
+A. It is behind the bank
+B. It is between the bank and the school
+C. It is beside the school
+D. It is in front of the bank
+
+6. "A car is ... than a bicycle."
+A. fast
+B. faster
+C. fastest
+D. more fast
+
+7. "An elephant is the ... land animal."
+A. big
+B. bigger
+C. biggest
+D. most big
+
+8. "Is a plane ... than a train?"
+A. expensive
+B. more expensive
+C. most expensive
+D. expensiver
+
+9. "Mount Everest is the ... mountain in the world."
+A. high
+B. higher
+C. highest
+D. most high
+
+10. "Math is ... than Art for me." (Lebih sulit)
+A. difficult
+B. more difficult
+C. most difficult
+D. difficulter
+
+11. "I have a ... . I need to go to the dentist."
+A. headache
+B. toothache
+C. stomachache
+D. earache
+
+12. "Santi has a ... . She is sneezing and coughing."
+A. sore throat
+B. fever
+C. cold/flu
+D. backache
+
+13. "What is 'Sakit perut' in English?"
+A. Stomachache
+B. Headache
+C. Toothache
+D. Heartache
+
+14. "You should see a ... if you are sick."
+A. teacher
+B. doctor
+C. pilot
+D. farmer
+
+15. "I have a ... . My throat feels painful."
+A. cough
+B. sore throat
+C. flu
+D. cold
+
+16. "Yesterday, I ... to the zoo with my family."
+A. go
+B. went
+C. goes
+D. going
+
+17. "She ... a delicious cake last night."
+A. make
+B. makes
+C. made
+D. making
+
+18. "They ... football two days ago."
+A. play
+B. played
+C. plays
+D. playing
+
+19. "Did you ... the homework yesterday?"
+A. do
+B. does
+C. did
+D. done
+
+20. "I ... not see him at school this morning."
+A. do
+B. does
+C. did
+D. done
+
+21. "Where do you go to see many animals?"
+A. Library
+B. Zoo
+C. Museum
+D. Cinema
+
+22. "We can watch movies in the ..."
+A. Theater/Cinema
+B. Market
+C. School
+D. Hospital
+
+23. "People go to the ... to pray." (Umat Muslim)
+A. Church
+B. Mosque
+C. Temple
+D. School
+
+24. "What is 'Bandara' in English?"
+A. Station
+B. Airport
+C. Harbor
+D. Bus stop
+
+25. "A train stops at the ..."
+A. Airport
+B. Harbor
+C. Railway Station
+D. Bus station
+
+26. "My mother is ... . She works in a hospital."
+A. a teacher
+B. a nurse
+C. a chef
+D. a farmer
+
+27. "A ... cuts and styles people's hair."
+A. barber
+B. butcher
+C. tailor
+D. driver
+
+28. "What is 'Penjahit' in English?"
+A. Carpenter
+B. Tailor
+C. Sailor
+D. Soldier
+
+29. "A ... takes care of plants and flowers."
+A. gardener
+B. farmer
+C. chef
+D. doctor
+
+30. "Who flies a plane?"
+A. A driver
+B. A pilot
+C. A sailor
+D. A captain
+
+31. "How do you feel?" (Saya merasa haus)
+A. I feel hungry
+B. I feel thirsty
+C. I feel tired
+D. I feel bored
+
+32. "I am ... . I want to eat something."
+A. thirsty
+B. hungry
+C. sleepy
+D. happy
+
+33. "The students are ... after the long trip." (Lelah)
+A. excited
+B. tired
+C. angry
+D. sad
+
+34. "What is 'Kecewa' in English?"
+A. Disappointed
+B. Surprised
+C. Nervous
+D. Proud
+
+35. "I am ... of you for winning the contest." (Bangga)
+A. scared
+B. proud
+C. ashamed
+D. angry
+
+36. "It is very ... today. Let's turn on the AC."
+A. cold
+B. hot
+C. rainy
+D. snowy
+
+37. "What is 'Berangin' in English?"
+A. Sunny
+B. Windy
+C. Cloudy
+D. Stormy
+
+38. "There is ... in the rainy season." (Banjir)
+A. fire
+B. flood
+C. earthquake
+D. landslide
+
+39. "A ... happens when the earth shakes."
+A. volcano
+B. earthquake
+C. tsunami
+D. drought
+
+40. "What is the weather like in winter?"
+A. Hot
+B. Snowy/Cold
+C. Sunny
+D. Warm
+
+41. "I ... milk every morning." (Present Tense)
+A. drink
+B. drinks
+C. drank
+D. drinking
+
+42. "Budi ... to the park every Sunday."
+A. go
+B. goes
+C. went
+D. gone
+
+43. "Do they ... English on Mondays?"
+A. study
+B. studies
+C. studied
+D. studying
+
+44. "The cat ... fish."
+A. like
+B. likes
+C. liking
+D. liked
+
+45. "We ... not play game every day."
+A. do
+B. does
+C. did
+D. is
+
+46. "What is 'Teleskop' used for?"
+A. To see small things
+B. To see distant stars
+C. To listen to music
+D. To take pictures
+
+47. "We use a ... to find the direction."
+A. clock
+B. compass
+C. ruler
+D. thermometer
+
+48. "What is the English of 'Timur Laut'?"
+A. Southeast
+B. Northeast
+C. Southwest
+D. Northwest
+
+49. "What is the English of 'Barat Daya'?"
+A. Southwest
+B. Northwest
+C. Southeast
+D. Northeast
+
+50. "The opposite of North is ..."
+A. East
+B. West
+C. South
+D. North
+
+51. "May I ... your ruler?" (Bolehkah saya pinjam)
+A. lend
+B. borrow
+C. give
+D. buy
+
+52. "Can you ... the window, please? It's hot."
+A. close
+B. open
+C. break
+D. clean
+
+53. "Don't ... in the library!"
+A. read
+B. be noisy
+C. sit
+D. study
+
+54. "Please, ... your shoes before entering."
+A. put on
+B. take off
+C. wash
+D. sell
+
+55. "Help me ... the floor, please."
+A. sweep
+B. eat
+C. watch
+D. read
+
+56. "What is 'Sendok' in English?"
+A. Fork
+B. Spoon
+C. Knife
+D. Plate
+
+57. "I drink a cup of ... ." (Teh)
+A. coffee
+B. tea
+C. milk
+D. juice
+
+58. "What is 'Piring' in English?"
+A. Bowl
+B. Plate
+C. Glass
+D. Mug
+
+59. "We use a ... to cut meat."
+A. fork
+B. knife
+C. spoon
+D. ladle
+
+60. "Breakfast is in the morning, ... is in the afternoon."
+A. dinner
+B. lunch
+C. snack
+D. supper
+
+61. "A ... is a place to save money."
+A. bank
+B. market
+C. library
+D. school
+
+62. "We can buy stamps and send letters at the ..."
+A. Police station
+B. Post office
+C. Bank
+D. Park
+
+63. "A ... is a place where we buy medicine."
+A. bakery
+B. drugstore/pharmacy
+C. butchery
+D. bookstore
+
+64. "What is 'Pom Bensin' in English?"
+A. Gas station
+B. Bus station
+C. Fire station
+D. Police station
+
+65. "We go to the ... to take a bus."
+A. airport
+B. bus station
+C. railway station
+D. harbor
+
+66. "My father is my mother's ..."
+A. brother
+B. husband
+C. son
+D. uncle
+
+67. "My mother's sister is my ..."
+A. uncle
+B. aunt
+C. cousin
+D. grandmother
+
+68. "What is 'Cucu perempuan' in English?"
+A. Grandson
+B. Granddaughter
+C. Niece
+D. Nephew
+
+69. "My sister's son is my ..."
+A. niece
+B. nephew
+C. cousin
+D. uncle
+
+70. "What is 'Mertua laki-laki' in English?"
+A. Stepfather
+B. Father-in-law
+C. Grandfather
+D. Brother-in-law
+
+71. "This bag is ... . It costs 1 million rupiah."
+A. cheap
+B. expensive
+C. small
+D. old
+
+72. "The opposite of 'Diligent' is ..."
+A. Smart
+B. Lazy
+C. Naughty
+D. Patient
+
+73. "He is very ... . He always shares his food."
+A. stingy
+B. generous
+C. greedy
+D. mean
+
+74. "The knife is ... . Be careful!"
+A. blunt
+B. sharp
+C. soft
+D. thick
+
+75. "What is 'Sempit' in English?"
+A. Wide
+B. Narrow
+C. Long
+D. High
+
+76. "A ... has four legs and says 'Moo'."
+A. goat
+B. cow
+C. horse
+D. sheep
+
+77. "A ... is a bird that can swim but cannot fly."
+A. duck
+B. penguin
+C. chicken
+D. owl
+
+78. "What is 'Kura-kura' in English?"
+A. Snake
+B. Turtle
+C. Frog
+D. Lizard
+
+79. "A ... is an animal with a very long neck."
+A. elephant
+B. giraffe
+C. lion
+D. tiger
+
+80. "Where does a whale live?"
+A. In the forest
+B. In the ocean
+C. In the river
+D. In the desert
+
+81. "I use my ... to listen to music."
+A. eyes
+B. ears
+C. nose
+D. mouth
+
+82. "What is 'Lutut' in English?"
+A. Elbow
+B. Knee
+C. Ankle
+D. Wrist
+
+83. "We have ten ... on our hands."
+A. toes
+B. fingers
+C. nails
+D. palms
+
+84. "The part of the body for breathing is ..."
+A. eyes
+B. nose
+C. mouth
+D. ears
+
+85. "What is 'Dagu' in English?"
+A. Cheek
+B. Chin
+C. Forehead
+D. Lips
+
+86. "My ... is black and long." (Rambut)
+A. head
+B. hair
+C. face
+D. neck
+
+87. "I am wearing a ... because it is cold." (Jaket)
+A. T-shirt
+B. jacket
+C. swimsuit
+D. skirt
+
+88. "What is 'Seragam' in English?"
+A. Clothes
+B. Uniform
+C. Suit
+D. Dress
+
+89. "We wear ... on our feet."
+A. socks
+B. gloves
+C. hat
+D. tie
+
+90. "My father wears a ... to the office." (Dasi)
+A. belt
+B. tie
+C. scarf
+D. veil
+
+91. "What is 'Baju Tidur' in English?"
+A. Raincoat
+B. Pajamas
+C. Sweater
+D. Uniform
+
+92. "How ... is this t-shirt?" (Menanyakan harga)
+A. many
+B. much
+C. far
+D. long
+
+93. "There are ... students in the class." (25)
+A. twenty-four
+B. twenty-five
+C. thirty-five
+D. fifteen
+
+94. "What is 'Seribu' in English?"
+A. One hundred
+B. One thousand
+C. Ten thousand
+D. One million
+
+95. "Eighty-seven in numbers is ..."
+A. 78
+B. 87
+C. 18
+D. 80
+
+96. "Can I have ... water, please?"
+A. any
+B. some
+C. many
+D. a few
+
+97. "There is ... orange in the fridge."
+A. a
+B. an
+C. some
+D. any
+
+98. "I don't have ... money."
+A. some
+B. any
+C. a
+D. an
+
+99. "What is the English of 'Minggu Depan'?"
+A. Last week
+B. Next week
+C. This week
+D. Every week
+
+100. "Thank you for your help!"
+A. No problem
+B. I am sorry
+C. Goodbye
+D. You are welcome
+
+KUNCI JAWABAN:
+
+1. B
+2. B
+3. C
+4. C
+5. B
+6. B
+7. C
+8. B
+9. C
+10. B
+11. B
+12. C
+13. A
+14. B
+15. B
+16. B
+17. C
+18. B
+19. A
+20. C
+21. B
+22. A
+23. B
+24. B
+25. C
+26. B
+27. A
+28. B
+29. A
+30. B
+31. B
+32. B
+33. B
+34. A
+35. B
+36. B
+37. B
+38. B
+39. B
+40. B
+41. A
+42. B
+43. A
+44. B
+45. A
+46. B
+47. B
+48. B
+49. A
+50. C
+51. B
+52. B
+53. B
+54. B
+55. A
+56. B
+57. B
+58. B
+59. B
+60. B
+61. A
+62. B
+63. B
+64. A
+65. B
+66. B
+67. B
+68. B
+69. B
+70. B
+71. B
+72. B
+73. B
+74. B
+75. B
+76. B
+77. B
+78. B
+79. B
+80. B
+81. B
+82. B
+83. B
+84. B
+85. B
+86. B
+87. B
+88. B
+89. A
+90. B
+91. B
+92. B
+93. B
+94. B
+95. B
+96. B
+97. B
+98. B
+99. B
+100. D

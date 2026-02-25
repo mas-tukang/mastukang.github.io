@@ -1,0 +1,704 @@
+SOAL:
+
+1. "What is this?" (Ini adalah sebuah topi)
+A. This is a hat
+B. This is a bag
+C. This is a shoe
+D. This is a sock
+
+2. "Eleven, Twelve, ..., Fourteen." The missing number is...
+A. Ten
+B. Thirteen
+C. Fifteen
+D. Sixteen
+
+3. How do you say "Dapur" in English?
+A. Bedroom
+B. Bathroom
+C. Kitchen
+D. Living room
+
+4. "I sleep in the ..."
+A. Kitchen
+B. Bedroom
+C. Garden
+D. Garage
+
+5. "There are ... days in a week."
+A. Five
+B. Six
+C. Seven
+D. Eight
+
+6. What is the first day of the week?
+A. Monday
+B. Tuesday
+C. Sunday
+D. Friday
+
+7. "Yesterday was Monday. Today is ..."
+A. Wednesday
+B. Tuesday
+C. Sunday
+D. Saturday
+
+8. "I am thirsty. I want to ..." (Minum)
+A. Eat
+B. Drink
+C. Sleep
+D. Study
+
+9. "I am hungry. I want to ..." (Makan)
+A. Drink
+B. Eat
+C. Play
+D. Read
+
+10. What is "Susu" in English?
+A. Tea
+B. Coffee
+C. Milk
+D. Juice
+
+11. "Fried rice" in Indonesian is...
+A. Nasi putih
+B. Nasi goreng
+C. Mi goreng
+D. Ayam goreng
+
+12. "A-P-P-L-E". It is an...
+A. Orange
+B. Apple
+C. Banana
+D. Grape
+
+13. This animal has a long trunk. It is an...
+A. Ant
+B. Elephant
+C. Giraffe
+D. Lion
+
+14. How many legs does a spider have?
+A. Four
+B. Six
+C. Eight
+D. Ten
+
+15. "T-W-E-N-T-Y" is number...
+A. 12
+B. 20
+C. 22
+D. 10
+
+16. What is "Kelinci" in English?
+A. Cat
+B. Rabbit
+C. Hamster
+D. Bird
+
+17. "My mother is cooking in the ..."
+A. Kitchen
+B. Bathroom
+C. Bedroom
+*D. Living room
+
+18. "I take a bath in the ..."
+A. Dining room
+B. Bathroom
+C. Bedroom
+D. Kitchen
+
+19. "Clock" in Indonesian is...
+A. Meja
+B. Jam dinding
+C. Kursi
+D. Pintu
+
+20. "Is it a pencil?" (Gambar pulpen)
+A. Yes, it is
+B. No, it is not
+C. Yes, it does
+D. No, it doesn't
+
+21. "Where do you put your books?"
+A. In the bag
+B. In the fridge
+C. In the oven
+D. In the sink
+
+22. "S-H-O-E-S". We wear them on our...
+A. Hands
+B. Feet
+C. Head
+D. Shoulders
+
+23. "A snake has ... legs."
+A. Two
+B. Four
+C. No (Zero)
+D. Six
+
+24. "What color is the sun?"
+A. Blue
+B. Yellow
+C. Green
+D. Purple
+
+25. "Twelve" plus "Three" is...
+A. Fourteen
+B. Fifteen
+C. Sixteen
+D. Seventeen
+
+26. "Sunday, Monday, Tuesday, ..."
+A. Thursday
+B. Wednesday
+C. Friday
+D. Saturday
+
+27. "I have breakfast in the ..." (Pagi hari)
+A. Morning
+B. Afternoon
+C. Evening
+D. Night
+
+28. "Can you swim?" (Ya, saya bisa)
+A. Yes, I can
+B. No, I cannot
+C. Yes, I am
+D. No, I am not
+
+29. "A bird can ..."
+A. Run
+B. Fly
+C. Crawl
+D. Talk
+
+30. "What is your name?"
+A. I am fine
+B. My name is Sinta
+C. I live in Jakarta
+D. I am seven years old
+
+31. "How old are you?"
+A. I am eight years old
+B. My name is Budi
+C. Thank you
+D. You are welcome
+
+32. "Where do you live?"
+A. I am a student
+B. I live in Bandung
+C. I like apple
+D. I am fine
+
+33. "Uniform" in Indonesian is...
+A. Tas
+B. Sepatu
+C. Seragam
+D. Topi
+
+34. "W-I-N-D-O-W" means...
+A. Pintu
+B. Jendela
+C. Atap
+D. Lantai
+
+35. "T-E-A-C-H-E-R" works in the...
+A. Hospital
+B. School
+C. Market
+D. Bank
+
+36. "Doctor" works in the...
+A. School
+B. Hospital
+C. Post office
+D. Park
+
+37. "Which one is a vegetable?"
+A. Mango
+B. Spinach
+C. Grape
+D. Watermelon
+
+38. "A lion eats ..."
+A. Grass
+B. Meat
+C. Fruit
+D. Bread
+
+39. "A rabbit likes to eat ..."
+A. Fish
+B. Meat
+C. Carrot
+D. Rice
+
+40. "Butterfly" in Indonesian is...
+A. Burung
+B. Kupu-kupu
+C. Lebah
+D. Lalat
+
+41. "Eighteen" is number...
+A. 8
+B. 18
+C. 80
+D. 81
+
+42. "Twenty" minus "Five" is...
+A. Ten
+B. Fifteen
+C. Twelve
+D. Sixteen
+
+43. "My father is a ..." (Petani)
+A. Doctor
+B. Farmer
+C. Teacher
+D. Pilot
+
+44. "I use an ... when it rains." (Payung)
+A. Hat
+B. Umbrella
+C. Coat
+D. Bag
+
+45. "The elephant is big, but the ant is ..."
+A. Tall
+B. Small
+C. Long
+D. Fat
+
+46. "S-O-A-P". We use it for...
+A. Eating
+B. Bathing
+C. Reading
+D. Writing
+
+47. "Pillow" in Indonesian is...
+A. Guling
+B. Bantal
+C. Kasur
+D. Selimut
+
+48. "I brush my teeth with a ..."
+A. Toothbrush
+B. Spoon
+C. Fork
+D. Knife
+
+49. "I eat soup with a ..."
+A. Fork
+B. Spoon
+C. Knife
+D. Plate
+
+50. "Bread" means...
+A. Nasi
+B. Roti
+C. Susu
+D. Telur
+
+51. "Look at the ... !" (Papan tulis)
+A. Table
+B. Blackboard
+C. Chair
+D. Cupboard
+
+52. "Please, ... the floor." (Sapu lantai)
+A. Wash
+B. Sweep
+C. Clean
+D. Open
+
+53. "Don't ... in the class!" (Berisik)
+A. Sleep
+B. Be noisy
+C. Read
+D. Eat
+
+54. "How many chairs are there?" (Ada 3 kursi)
+A. There are three chairs
+B. There is one chair
+C. There are two chairs
+D. There are four chairs
+
+55. "Ice cream is ..."
+A. Hot
+B. Cold
+C. Spicy
+D. Salty
+
+56. "Coffee is ..."
+A. Cold
+B. Hot
+C. Sweet
+D. Sour
+
+57. "Candy is ..."
+A. Bitter
+B. Sweet
+C. Salty
+D. Sour
+
+58. "F-L-O-W-E-R" means...
+A. Pohon
+B. Bunga
+C. Akar
+D. Daun
+
+59. "There is a tree in the ..." (Halaman)
+A. Kitchen
+B. Garden/Yard
+C. Bathroom
+D. Garage
+
+60. "Car" in Indonesian is...
+A. Sepeda
+B. Motor
+C. Mobil
+D. Bis
+
+61. "Bicycle" has ... wheels.
+A. One
+B. Two
+C. Three
+D. Four
+
+62. "Plane" flies in the...
+A. Sea
+B. Road
+C. Sky
+D. River
+
+63. "Ship" sails in the...
+A. Air
+B. Sea
+C. Forest
+D. Mountain
+
+64. "Purple" in Indonesian is...
+A. Merah
+B. Ungu
+C. Biru
+D. Hijau
+
+65. "Brown" in Indonesian is...
+A. Hitam
+B. Cokelat
+C. Putih
+D. Abu-abu
+
+66. "Monkey" likes to eat...
+A. Banana
+B. Meat
+C. Fish
+D. Grass
+
+67. "Fish" lives in the...
+A. Land
+B. Water
+C. Air
+D. Tree
+
+68. "What is the English of 'Semangka'?"
+A. Watermelon
+B. Melon
+C. Papaya
+D. Mango
+
+69. "Orange juice" means...
+A. Jus apel
+B. Jus jeruk
+C. Jus mangga
+D. Jus tomat
+
+70. "I have two ... to hear."
+A. Eyes
+B. Ears
+C. Hands
+D. Legs
+
+71. "We smell with our ..."
+A. Eyes
+B. Nose
+C. Ears
+D. Mouth
+
+72. "Ten, Twenty, ..., Forty."
+A. Fifteen
+B. Thirty
+C. Twenty-five
+D. Fifty
+
+73. "Fifteen" in Indonesian is...
+A. Lima
+B. Lima belas
+C. Lima puluh
+D. Dua puluh lima
+
+74. "G-I-R-A-F-F-E" is a ... animal. (Tinggi)
+A. Short
+B. Tall
+C. Fat
+D. Thin
+
+75. "A snake is a ... animal." (Panjang)
+A. Short
+B. Long
+C. Small
+D. Big
+
+76. "A turtle is ..." (Lambat)
+A. Fast
+B. Slow
+C. Active
+D. Lazy
+
+77. "A horse is ..." (Cepat)
+A. Slow
+B. Fast
+C. Sleepy
+D. Sad
+
+78. "I am ... because I win the game."
+A. Sad
+B. Happy
+C. Angry
+D. Scared
+
+79. "T-I-G-E-R" in Indonesian is...
+A. Singa
+B. Harimau
+C. Gajah
+D. Serigala
+
+80. "Crocodile" lives in the...
+A. Sky
+B. River
+C. House
+D. Bedroom
+
+81. "What is 'Meja' in English?"
+A. Chair
+B. Table
+C. Door
+D. Window
+
+82. "Is it a cat?" (Gambar anjing)
+A. Yes, it is
+B. No, it is not
+C. Yes, it does
+D. No, it doesn't
+
+83. "Circle the correct answer!" means...
+A. Garis bawahi
+B. Lingkari
+C. Silanglah
+D. Tulislah
+
+84. "Turn on the ... !" (Nyalakan lampu)
+A. Fan
+B. Light/Lamp
+C. Radio
+D. TV
+
+85. "Close your eyes!" means...
+A. Buka matamu
+B. Pejamkan matamu
+C. Lihat aku
+D. Cuci muka
+
+86. "I read a story book in the ..."
+A. Library
+B. Canteen
+C. Toilet
+D. Parking area
+
+87. "I buy snacks in the ..."
+A. Library
+B. Canteen
+C. Classroom
+D. Office
+
+88. "Comb your ... !"
+A. Teeth
+B. Hair
+C. Face
+D. Hand
+
+89. "What is 'Topi' in English?"
+A. Shoe
+B. Hat
+C. Bag
+D. Shirt
+
+90. "S-O-C-K-S" are...
+A. Sepatu
+B. Kaos kaki
+C. Celana
+D. Baju
+
+91. "One year has ... months."
+A. Ten
+B. Eleven
+C. Twelve
+D. Thirteen
+
+92. "The month after January is ..."
+A. March
+B. February
+C. April
+D. May
+
+93. "The month before December is ..."
+A. October
+B. November
+C. September
+D. August
+
+94. "How is the weather?" (Matahari terik)
+A. It is rainy
+B. It is sunny
+C. It is cloudy
+D. It is snowy
+
+95. "It is raining. I need a ..."
+A. Sunglasses
+B. Raincoat
+C. T-shirt
+D. Shorts
+
+96. "What is 'Pantai' in English?"
+A. Mountain
+B. Beach
+C. Forest
+D. River
+
+97. "A-B-C-D-E-F-..." The next letter is...
+A. H
+B. G
+C. I
+D. J
+
+98. "I write with a ..."
+A. Ruler
+B. Pencil/Pen
+C. Eraser
+D. Bag
+
+99. "May I borrow your pencil?" means...
+A. Boleh saya pinjam pensilmu?
+B. Ini pensilmu
+C. Dimana pensilmu?
+D. Ambil pensil ini
+
+100. "Goodbye, see you later!"
+A. Good morning
+B. See you
+C. Thank you
+D. I am fine
+
+KUNCI JAWABAN:
+
+1. A
+2. B
+3. C
+4. B
+5. C
+6. C
+7. B
+8. B
+9. B
+10. C
+11. B
+12. B
+13. B
+14. C
+15. B
+16. B
+17. A
+18. B
+19. B
+20. B
+21. A
+22. B
+23. C
+24. B
+25. B
+26. B
+27. A
+28. A
+29. B
+30. B
+31. A
+32. B
+33. C
+34. B
+35. B
+36. B
+37. B
+38. B
+39. C
+40. B
+41. B
+42. B
+43. B
+44. B
+45. B
+46. B
+47. B
+48. A
+49. B
+50. B
+51. B
+52. B
+53. B
+54. A
+55. B
+56. B
+57. B
+58. B
+59. B
+60. C
+61. B
+62. C
+63. B
+64. B
+65. B
+66. A
+67. B
+68. A
+69. B
+70. B
+71. B
+72. B
+73. B
+74. B
+75. B
+76. B
+77. B
+78. B
+79. B
+80. B
+81. B
+82. B
+83. B
+84. B
+85. B
+86. A
+87. B
+88. B
+89. B
+90. B
+91. C
+92. B
+93. B
+94. B
+95. B
+96. B
+97. B
+98. B
+99. A
+100. B

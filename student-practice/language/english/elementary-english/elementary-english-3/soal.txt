@@ -1,0 +1,704 @@
+SOAL:
+
+1. "What time is it?" (07.00)
+A. It is six o'clock
+B. It is seven o'clock
+C. It is eight o'clock
+D. It is nine o'clock
+
+2. "It is half past eight." In numbers, it is...
+A. 08.00
+B. 08.15
+C. 08.30
+D. 09.30
+
+3. "I ... to school at six o'clock."
+A. go
+B. goes
+C. going
+D. gone
+
+4. "My father ... a car to the office."
+A. drive
+B. drives
+C. driving
+D. driven
+
+5. "What is 'Sarapan' in English?"
+A. Lunch
+B. Dinner
+C. Breakfast
+D. Snack
+
+6. "We have lunch in the ..."
+A. Morning
+B. Afternoon
+C. Evening
+D. Night
+
+7. "I ... my teeth twice a day."
+A. wash
+B. brush
+C. comb
+D. sweep
+
+8. "She ... her hair in front of the mirror."
+A. brushes
+B. combs
+C. washes
+D. cleans
+
+9. "Twenty-five plus ten is ..."
+A. Thirty
+B. Thirty-five
+C. Forty
+D. Forty-five
+
+10. "Fifty minus twenty is ..."
+A. Twenty
+B. Thirty
+C. Forty
+D. Ten
+
+11. "How do you go to school?" (Dengan bus)
+A. By car
+B. By bus
+C. By bike
+D. By foot
+
+12. "A pilot flies a ..."
+A. Ship
+B. Train
+C. Plane
+D. Bus
+
+13. "A sailor sails a ..."
+A. Car
+B. Ship
+C. Bicycle
+D. Truck
+
+14. "Train" in Indonesian is...
+A. Pesawat
+B. Kereta api
+C. Kapal laut
+D. Delman
+
+15. "Pedicab" in Indonesian is...
+A. Becak
+B. Sepeda
+C. Motor
+D. Mobil
+
+16. "Is it a motorcycle?" (Gambar motor)
+A. Yes, it is
+B. No, it is not
+C. Yes, it does
+D. No, it doesn't
+
+17. "The sun rises in the ..."
+A. West
+B. East
+C. North
+D. South
+
+18. "The sun sets in the ..."
+A. East
+B. West
+C. North
+D. South
+
+19. "Where does a doctor work?"
+A. School
+B. Hospital
+C. Post office
+D. Market
+
+20. "A ... teaches students in the classroom."
+A. Doctor
+B. Teacher
+C. Nurse
+D. Chef
+
+21. "What is your hobby?" (Berenang)
+A. My hobby is singing
+B. My hobby is swimming
+C. My hobby is dancing
+D. My hobby is reading
+
+22. "I like ... books in the library."
+A. writing
+B. reading
+C. cooking
+D. fishing
+
+23. "Budi likes ... football in the field."
+A. playing
+B. singing
+C. running
+D. jumping
+
+24. "Susi likes ... songs on the stage."
+A. dancing
+B. singing
+C. drawing
+D. painting
+
+25. "What is 'Hobi' in English?"
+A. Hobby
+B. Habby
+C. Hubby
+D. Hibby
+
+26. "I have ... for dinner." (Mie)
+A. Rice
+B. Noodles
+C. Bread
+D. Pizza
+
+27. "I drink a glass of ... every morning." (Susu)
+A. Water
+B. Milk
+C. Tea
+D. Coffee
+
+28. "Do you like orange juice?" (Ya, saya suka)
+A. Yes, I do
+B. No, I don't
+C. Yes, I am
+D. No, I am not
+
+29. "A ... makes food in the restaurant."
+A. Barber
+B. Chef
+C. Tailor
+D. Driver
+
+30. "What is 'Petani' in English?"
+A. Teacher
+B. Farmer
+C. Soldier
+D. Police
+
+31. "A soldier wears a ..."
+A. Dress
+B. Uniform
+C. Pajamas
+D. Raincoat
+
+32. "I wear ... to protect my feet."
+A. Gloves
+B. Shoes
+C. Hat
+D. Tie
+
+33. "It is raining. Don't forget your ..."
+A. Sunglasses
+B. Umbrella
+C. Swimsuit
+D. T-shirt
+
+34. "My mother buys vegetables in the ..."
+A. Library
+B. Market
+C. Bank
+D. Cinema
+
+35. "We save money in the ..."
+A. School
+B. Bank
+C. Zoo
+D. Park
+
+36. "There are many animals in the ..."
+A. Garden
+B. Zoo
+C. Hospital
+D. Kitchen
+
+37. "An elephant has a long ..." (Belalai)
+A. Tail
+B. Trunk
+C. Ear
+D. Leg
+
+38. "A giraffe has a long ..." (Leher)
+A. Neck
+B. Arm
+C. Nose
+D. Finger
+
+39. "A lion is a ... animal." (Buas)
+A. Tame
+B. Wild
+C. Small
+D. Slow
+
+40. "A rabbit is a ... animal." (Jinak)
+A. Wild
+B. Tame
+C. Scary
+D. Dangerous
+
+41. "What is 'Dapur' in English?"
+A. Bathroom
+B. Kitchen
+C. Bedroom
+D. Garage
+
+42. "We watch TV in the ..."
+A. Dining room
+B. Living room
+C. Bathroom
+D. Garden
+
+43. "My mother is ... in the kitchen."
+A. sleeping
+B. cooking
+C. bathing
+D. studying
+
+44. "I ... my homework at night."
+A. do
+B. does
+C. doing
+D. done
+
+45. "She ... TV in the living room."
+A. watch
+B. watches
+C. watching
+D. watched
+
+46. "Is he a doctor?" (Gambar dokter)
+A. Yes, he is
+B. No, he is not
+C. Yes, she is
+D. No, she is not
+
+47. "They ... basketball every Sunday."
+A. play
+B. plays
+C. playing
+D. played
+
+48. "We ... English on Wednesday."
+A. study
+B. studies
+C. studying
+D. studied
+
+49. "What is 'Senin' in English?"
+A. Sunday
+B. Monday
+C. Tuesday
+D. Friday
+
+50. "What is 'Kamis' in English?"
+A. Tuesday
+B. Wednesday
+C. Thursday
+D. Saturday
+
+51. "Before Friday is ..."
+A. Wednesday
+B. Thursday
+C. Saturday
+D. Monday
+
+52. "After Saturday is ..."
+A. Friday
+B. Sunday
+C. Monday
+D. Tuesday
+
+53. "How many days are there in a week?"
+A. Five
+B. Six
+C. Seven
+D. Eight
+
+54. "How many months are there in a year?"
+A. Ten
+B. Eleven
+C. Twelve
+D. Thirteen
+
+55. "The first month is ..."
+A. February
+B. January
+C. March
+D. April
+
+56. "The last month is ..."
+A. October
+B. November
+C. December
+D. August
+
+57. "My birthday is in ..." (Agustus)
+A. April
+B. August
+C. October
+D. July
+
+58. "What is 'Piring' in English?"
+A. Spoon
+B. Fork
+C. Plate
+D. Bowl
+
+59. "We eat with a ... and a fork."
+A. Knife
+B. Spoon
+C. Glass
+D. Cup
+
+60. "I drink water from a ..."
+A. Plate
+B. Glass
+C. Spoon
+D. Napkin
+
+61. "It is 09.00."
+A. Nine o'clock
+B. Ten o'clock
+C. Eight o'clock
+D. Seven o'clock
+
+62. "I ... at 05.00 in the morning." (Bangun tidur)
+A. go to bed
+B. wake up
+C. take a bath
+D. have breakfast
+
+63. "I ... at 09.00 at night." (Pergi tidur)
+A. go to bed
+B. wake up
+C. go to school
+D. play
+
+64. "He ... his bicycle to the park."
+A. ride
+B. rides
+C. riding
+D. ridden
+
+65. "What is the English of 'Rumah Sakit'?"
+A. School
+B. Hospital
+C. Market
+D. Office
+
+66. "A ... catches fish in the sea."
+A. Teacher
+B. Fisherman
+C. Farmer
+D. Pilot
+
+67. "A ... helps a doctor."
+A. Chef
+B. Nurse
+C. Driver
+D. Tailor
+
+68. "My brother likes ... a bike."
+A. riding
+B. driving
+C. flying
+D. sailing
+
+69. "I have ... for breakfast." (Roti)
+A. Rice
+B. Bread
+C. Soup
+D. Meatball
+
+70. "Chocolate is ..." (Manis)
+A. Salty
+B. Sweet
+C. Bitter
+D. Sour
+
+71. "A lemon is ..." (Asam)
+A. Sweet
+B. Sour
+C. Spicy
+D. Bitter
+
+72. "Chili is ..." (Pedas)
+A. Salty
+B. Spicy
+C. Sweet
+D. Sour
+
+73. "Seventy" in numbers is ...
+A. 17
+B. 70
+C. 77
+D. 7
+
+74. "One hundred" in numbers is ...
+A. 10
+B. 100
+C. 1000
+D. 1
+
+75. "What is 'Merah Muda' in English?"
+A. Red
+B. Pink
+C. Purple
+D. Brown
+
+76. "Green" is a color of ..."
+A. Sky
+B. Leaf
+C. Sun
+D. Cloud
+
+77. "Where do you put your clothes?"
+A. In the cupboard
+B. In the fridge
+C. In the oven
+D. In the bin
+
+78. "I sleep on the ..."
+A. Chair
+B. Bed
+C. Table
+D. Floor
+
+79. "Turn off the ... before you go." (Lampu)
+A. Fan
+B. Light
+C. Radio
+D. TV
+
+80. "What is the English of 'Sepatu'?"
+A. Shoes
+B. Socks
+C. Shirt
+D. Skirt
+
+81. "A ... cuts people's hair."
+A. Teacher
+B. Barber
+C. Farmer
+D. Doctor
+
+82. "A ... drives a bus."
+A. Pilot
+B. Driver
+C. Sailor
+D. Rider
+
+83. "I ... to the radio."
+A. see
+B. listen
+C. watch
+D. read
+
+84. "She ... a letter to her friend."
+A. reads
+B. writes
+C. speaks
+D. listens
+
+85. "What is 'Berlari' in English?"
+A. Walk
+B. Run
+C. Jump
+D. Swim
+
+86. "A kangaroo can ..."
+A. fly
+B. jump
+C. swim
+D. crawl
+
+87. "What is 'Seragam' in English?"
+A. Shirt
+B. Uniform
+C. Pants
+D. Tie
+
+88. "I wear a ... around my neck." (Dasi)
+A. Belt
+B. Tie
+C. Hat
+D. Sock
+
+89. "My sister likes ... dolls."
+A. playing
+B. collecting
+C. drawing
+D. eating
+
+90. "What is 'Menggambar' in English?"
+A. Writing
+B. Drawing
+C. Reading
+D. Singing
+
+91. "The ... is in the kitchen." (Kompor)
+A. Bed
+B. Stove
+C. Sofa
+D. Wardrobe
+
+92. "We sit on the ... in the living room."
+A. Bed
+B. Sofa
+C. Sink
+D. Stove
+
+93. "I ... my face in the morning."
+A. brush
+B. wash
+C. comb
+D. eat
+
+94. "He ... the floor every morning." (Menyapu)
+A. mops
+B. sweeps
+C. cleans
+D. washes
+
+95. "What is the English of 'Besok'?"
+A. Today
+B. Tomorrow
+C. Yesterday
+D. Tonight
+
+96. "What is the English of 'Kemarin'?"
+A. Today
+B. Tomorrow
+C. Yesterday
+D. Now
+
+97. "Is she your mother?"
+A. Yes, she is
+B. No, she is not
+C. Yes, he is
+D. No, he is not
+
+98. "I have one ... and one sister." (Saudara laki-laki)
+A. Father
+B. Brother
+C. Uncle
+D. Grandfather
+
+99. "My father's brother is my ..."
+A. Aunt
+B. Uncle
+C. Cousin
+D. Grandfather
+
+100. "Thank you very much!"
+A. You are welcome
+B. I am sorry
+C. Goodbye
+D. Hello
+
+KUNCI JAWABAN:
+
+1. B
+2. C
+3. A
+4. B
+5. C
+6. B
+7. B
+8. B
+9. B
+10. B
+11. B
+12. C
+13. B
+14. B
+15. A
+16. A
+17. B
+18. B
+19. B
+20. B
+21. B
+22. B
+23. A
+24. B
+25. A
+26. B
+27. B
+28. A
+29. B
+30. B
+31. B
+32. B
+33. B
+34. B
+35. B
+36. B
+37. B
+38. A
+39. B
+40. B
+41. B
+42. B
+43. B
+44. A
+45. B
+46. A
+47. A
+48. A
+49. B
+50. C
+51. B
+52. B
+53. C
+54. C
+55. B
+56. C
+57. B
+58. C
+59. B
+60. B
+61. A
+62. B
+63. A
+64. B
+65. B
+66. B
+67. B
+68. A
+69. B
+70. B
+71. B
+72. B
+73. B
+74. B
+75. B
+76. B
+77. A
+78. B
+79. B
+80. A
+81. B
+82. B
+83. B
+84. B
+85. B
+86. B
+87. B
+88. B
+89. B
+90. B
+91. B
+92. B
+93. B
+94. B
+95. B
+96. C
+97. A
+98. B
+99. B
+100. A

@@ -1,0 +1,704 @@
+SOAL:
+
+1. Bagian tumbuhan yang berfungsi untuk menyerap air dan mineral dari dalam tanah adalah...
+A. Daun
+B. Batang
+C. Akar
+D. Bunga
+
+2. Proses pembuatan makanan pada tumbuhan hijau dengan bantuan cahaya matahari disebut...
+A. Oksidasi
+B. Fotosintesis
+C. Respirasi
+D. Penguapan
+
+3. Zat hijau daun yang berguna pada proses fotosintesis adalah...
+A. Stomata
+B. Klorofil
+C. Akar tunggang
+D. Kambium
+
+4. Bagian tumbuhan yang berfungsi sebagai tempat berlangsungnya fotosintesis adalah...
+A. Akar
+B. Batang
+C. Daun
+D. Buah
+
+5. Alat kelamin jantan pada bunga disebut...
+A. Putik
+B. Kelopak
+C. Benang sari
+D. Mahkota
+
+6. Alat kelamin betina pada bunga disebut...
+A. Benang sari
+B. Putik
+C. Mahkota
+D. Bakal biji
+
+7. Fungsi utama bunga pada tumbuhan adalah sebagai...
+A. Alat pernapasan
+B. Tempat menyimpan cadangan makanan
+C. Alat perkembangbiakan
+D. Penopang tubuh tumbuhan
+
+8. Contoh tumbuhan yang memiliki akar tunggang adalah...
+A. Padi
+B. Jagung
+C. Mangga
+D. Kelapa
+
+9. Batang yang berfungsi menyimpan cadangan makanan contohnya pada tanaman...
+A. Mawar
+B. Tebu
+C. Bayam
+D. Padi
+
+10. Tempat bertemunya serbuk sari dan kepala putik disebut...
+A. Pembuahan
+B. Penyerbukan
+C. Fotosintesis
+D. Perkecambahan
+
+11. Benda yang memiliki bentuk dan volume yang tetap disebut benda...
+A. Cair
+B. Gas
+C. Padat
+D. Kristal
+
+12. Air yang dipanaskan terus menerus akan berubah menjadi...
+A. Es
+B. Uap air
+C. Cairan kental
+D. Embun
+
+13. Perubahan wujud benda dari padat menjadi cair disebut...
+A. Menyublim
+B. Membeku
+C. Mencair
+D. Menguap
+
+14. Perubahan wujud benda dari cair menjadi padat disebut...
+A. Mencair
+B. Membeku
+C. Menguap
+D. Mengembun
+
+15. Kapur barus yang diletakkan di lemari lama-kelamaan akan habis. Peristiwa ini disebut...
+A. Menguap
+B. Menyublim
+C. Mencair
+D. Mengembun
+
+16. Titik-titik air di bagian luar gelas yang berisi es merupakan contoh...
+A. Menguap
+B. Mengembun
+C. Membeku
+D. Menyublim
+
+17. Benda gas memiliki sifat...
+A. Bentuk tetap
+B. Volume tetap
+C. Mengisi seluruh ruangan
+D. Mudah dipegang
+
+18. Contoh perubahan wujud menguap adalah...
+A. Pembuatan es batu
+B. Mentega dipanaskan
+C. Jemuran basah menjadi kering
+D. Terbentuknya bunga es di kulkas
+
+19. Perubahan wujud dari gas menjadi cair disebut...
+A. Menguap
+B. Mengembun
+C. Menyublim
+D. Mengkristal
+
+20. Perubahan wujud dari gas menjadi padat (misal pembentukan salju) disebut...
+A. Menyublim
+B. Mengkristal (Mendeposisi)
+C. Menguap
+D. Mencair
+
+21. Tarikan atau dorongan yang diberikan pada suatu benda disebut...
+A. Daya
+B. Gaya
+C. Usaha
+D. Energi
+
+22. Saat kita menendang bola, kita menggunakan gaya...
+A. Pegas
+B. Otot
+C. Magnet
+D. Gesek
+
+23. Buah jatuh dari pohon ke bawah karena adanya gaya...
+A. Magnet
+B. Listrik
+C. Gravitasi
+D. Pegas
+
+24. Gaya yang muncul ketika dua permukaan benda saling bersentuhan adalah gaya...
+A. Pegas
+B. Gesek
+C. Magnet
+D. Otot
+
+25. Contoh penggunaan gaya pegas adalah pada...
+A. Kompas
+B. Ketapel
+C. Lampu senter
+D. Kipas angin
+
+26. Permukaan ban mobil dibuat beralur bertujuan untuk...
+A. Memperkecil gaya gesek
+B. Memperbesar gaya gesek
+C. Mempercantik tampilan
+D. Mengurangi kecepatan
+
+27. Magnet dapat menarik benda yang terbuat dari...
+A. Plastik
+B. Kayu
+C. Besi
+D. Kaca
+
+28. Dua kutub magnet yang senama jika didekatkan akan...
+A. Tarik-menarik
+B. Tolak-menolak
+C. Menempel kuat
+D. Tidak terjadi apa-apa
+
+29. Benda yang dapat ditarik magnet disebut benda...
+A. Magnetis
+B. Non-magnetis
+C. Dinamis
+D. Statis
+
+30. Penggaris plastik yang digosokkan ke rambut dapat menarik serpihan kertas karena adanya gaya...
+A. Magnet
+B. Gravitasi
+C. Listrik statis
+D. Otot
+
+31. Kemampuan untuk melakukan usaha atau kerja disebut...
+A. Gaya
+B. Energi
+C. Daya
+D. Gerak
+
+32. Sumber energi terbesar bagi bumi adalah...
+A. Listrik
+B. Angin
+C. Matahari
+D. Air
+
+33. Alat yang digunakan untuk mengubah energi matahari menjadi energi listrik adalah...
+A. Generator
+B. Panel surya
+C. Turbin
+D. Baterai
+
+34. Energi yang dimiliki oleh benda yang bergerak disebut energi...
+A. Potensial
+B. Kinetik
+C. Kimia
+D. Bunyi
+
+35. Perubahan energi pada setrika listrik adalah...
+A. Energi listrik menjadi energi gerak
+B. Energi listrik menjadi energi panas
+C. Energi listrik menjadi energi cahaya
+D. Energi panas menjadi energi listrik
+
+36. Perubahan energi pada kipas angin adalah...
+A. Energi listrik menjadi gerak
+B. Energi listrik menjadi bunyi
+C. Energi listrik menjadi panas
+D. Energi gerak menjadi listrik
+
+37. Makanan merupakan sumber energi...
+A. Listrik
+B. Cahaya
+C. Kimia
+D. Bunyi
+
+38. Energi yang tersimpan dalam baterai dan aki adalah energi...
+A. Listrik
+B. Kimia
+C. Panas
+D. Gerak
+
+39. Alat musik gitar menghasilkan energi bunyi dengan cara...
+A. Ditiup
+B. Dipukul
+C. Dipetik
+D. Digoyang
+
+40. Lampu neon mengubah energi listrik menjadi energi...
+A. Panas
+B. Cahaya
+C. Gerak
+D. Kimia
+
+41. Matahari membantu manusia dalam proses...
+A. Pernapasan
+B. Pengeringan pakaian
+C. Pembuatan es
+D. Tidur malam
+
+42. Bunyi dihasilkan oleh benda yang...
+A. Diam
+B. Bergetar
+C. Panas
+D. Dingin
+
+43. Tinggi rendahnya bunyi dipengaruhi oleh...
+A. Warna benda
+B. Frekuensi getaran
+C. Luas benda
+D. Harga benda
+
+44. Bunyi tidak dapat merambat melalui...
+A. Zat padat
+B. Zat cair
+C. Ruang hampa udara
+D. Gas
+
+45. Cahaya dapat merambat lurus, contohnya pada...
+A. Pelangi
+B. Lampu senter di malam hari
+C. Bayangan di cermin
+D. Kolam yang terlihat dangkal
+
+46. Peristiwa pembelokan cahaya saat melewati dua medium yang berbeda kerapatannya disebut...
+A. Pemantulan
+B. Pembiasan
+C. Perambatan
+D. Penguraian
+
+47. Pensil yang dimasukkan ke dalam gelas berisi air tampak patah karena cahaya memiliki sifat...
+A. Dapat dipantulkan
+B. Dapat dibiaskan
+C. Merambat lurus
+D. Menembus benda bening
+
+48. Pelangi terjadi karena adanya...
+A. Pemantulan cahaya
+B. Penguraian cahaya (dispersi)
+C. Pembiasan cahaya saja
+D. Penyerapan cahaya
+
+49. Benda yang tidak dapat ditembus oleh cahaya disebut...
+A. Benda bening
+B. Benda transparan
+C. Benda gelap (opak)
+D. Benda kaca
+
+50. Cermin yang permukaannya datar disebut...
+A. Cermin cekung
+B. Cermin cembung
+C. Cermin datar
+D. Lensa
+
+51. Bayangan pada cermin datar bersifat...
+A. Terbalik kiri-kanan
+B. Lebih kecil
+C. Lebih besar
+D. Nyata
+
+52. Cermin yang digunakan pada spion kendaraan adalah...
+A. Cermin datar
+B. Cermin cembung
+C. Cermin cekung
+D. Cermin ganda
+
+53. Segala sesuatu yang ada di sekitar makhluk hidup disebut...
+A. Komunitas
+B. Ekosistem
+C. Lingkungan
+D. Populasi
+
+54. Hubungan timbal balik antara makhluk hidup dan lingkungannya disebut...
+A. Habitat
+B. Ekosistem
+C. Simbiosis
+D. Adaptasi
+
+55. Makhluk hidup yang berperan sebagai pembuat makanan dalam ekosistem disebut...
+A. Konsumen
+B. Produsen
+C. Pengurai
+D. Predator
+
+56. Hewan pemakan tumbuhan disebut...
+A. Karnivora
+B. Herbivora
+C. Omnivora
+D. Insektivora
+
+57. Hewan pemakan daging disebut...
+A. Herbivora
+B. Karnivora
+C. Omnivora
+D. Detritivora
+
+58. Hewan pemakan segala (tumbuhan dan daging) disebut...
+A. Herbivora
+B. Karnivora
+C. Omnivora
+D. Kanibal
+
+59. Dalam rantai makanan, jamur dan bakteri berperan sebagai...
+A. Produsen
+B. Konsumen I
+C. Konsumen II
+D. Pengurai (Dekomposer)
+
+60. Urutan makan dan dimakan antar makhluk hidup disebut...
+A. Jaring-jaring makanan
+B. Rantai makanan
+C. Piramida energi
+D. Siklus hidup
+
+61. Contoh produsen di ekosistem sawah adalah...
+A. Belalang
+B. Tikus
+C. Padi
+D. Ular
+
+62. Jika populasi katak di sawah habis ditangkap manusia, maka populasi belalang akan...
+A. Berkurang
+B. Tetap
+C. Meningkat
+D. Punah
+
+63. Kumpulan dari beberapa rantai makanan yang saling berhubungan disebut...
+A. Komunitas
+B. Jaring-jaring makanan
+C. Populasi
+D. Ekosistem alami
+
+64. Sumber energi utama dalam sebuah rantai makanan berasal dari...
+A. Tumbuhan
+B. Hewan
+C. Matahari
+D. Tanah
+
+65. Bagian mata yang berfungsi mengatur jumlah cahaya yang masuk adalah...
+A. Retina
+B. Lensa
+C. Pupil
+D. Sklera
+
+66. Bagian telinga yang berfungsi menangkap getaran bunyi adalah...
+A. Gendang telinga
+B. Daun telinga
+C. Syaraf pendengaran
+D. Saluran eustachius
+
+67. Indera peraba pada manusia adalah...
+A. Lidah
+B. Hidung
+C. Kulit
+D. Mata
+
+68. Lidah bagian depan (ujung) paling peka terhadap rasa...
+A. Pahit
+B. Manis
+C. Asam
+D. Asin
+
+69. Penyakit mata yang tidak dapat melihat benda jarak jauh disebut...
+A. Miopi (rabun jauh)
+B. Hipermetropi (rabun dekat)
+C. Presbiopi
+D. Katarak
+
+70. Bagian hidung yang berfungsi menyaring debu yang masuk bersama udara adalah...
+A. Selaput lendir
+B. Rambut hidung
+C. Saraf pembau
+D. Tulang hidung
+
+71. Tulang-tulang yang menyusun kepala disebut...
+A. Tulang anggota gerak
+B. Tulang tengkorak
+C. Tulang belakang
+D. Tulang rusuk
+
+72. Sendi yang memungkinkan gerakan ke segala arah disebut...
+A. Sendi engsel
+B. Sendi pelana
+C. Sendi peluru
+D. Sendi putar
+
+73. Fungsi rangka manusia antara lain...
+A. Mengalirkan darah
+B. Tempat melekatnya otot
+C. Menghasilkan energi
+D. Mencerna makanan
+
+74. Hubungan antar tulang yang tidak dapat digerakkan disebut...
+A. Sendi mati
+B. Sendi kaku
+C. Sendi gerak
+D. Sendi putar
+
+75. Salah satu cara menjaga kesehatan tulang adalah...
+A. Tidur larut malam
+B. Makan makanan mengandung kalsium
+C. Jarang berolahraga
+D. Duduk dengan posisi membungkuk
+
+76. Pelestarian makhluk hidup bertujuan untuk...
+A. Memperbanyak hama
+B. Mencegah kepunahan
+C. Mengambil keuntungannya saja
+D. Merusak ekosistem
+
+77. Contoh hewan langka di Indonesia adalah...
+A. Ayam
+B. Kucing
+C. Komodo
+D. Kambing
+
+78. Tempat perlindungan hewan langka disebut...
+A. Cagar alam
+B. Suaka margasatwa
+C. Kebun raya
+D. Hutan produksi
+
+79. Penanaman hutan kembali yang telah gundul disebut...
+A. Abrasi
+B. Reboisasi
+C. Erosi
+D. Irigasi
+
+80. Pengikisan tanah oleh air laut di pantai disebut...
+A. Erosi
+B. Abrasi
+C. Longsor
+D. Banjir
+
+81. Benda yang ditarik lemah oleh magnet disebut...
+A. Feromagnetik
+B. Paramagnetik
+C. Diamagnetik
+D. Elektromagnetik
+
+82. Energi panas disebut juga...
+A. Kalor
+B. Volt
+C. Watt
+D. Joule
+
+83. Perpindahan panas melalui zat perantara tanpa disertai perpindahan partikel zatnya disebut...
+A. Konveksi
+B. Radiasi
+C. Konduksi
+D. Evaporasi
+
+84. Perpindahan panas matahari ke bumi terjadi secara...
+A. Konduksi
+B. Konveksi
+C. Radiasi
+D. Respirasi
+
+85. Contoh isolator panas (benda yang sulit menghantarkan panas) adalah...
+A. Besi
+B. Aluminium
+C. Kayu
+D. Tembaga
+
+86. Contoh konduktor panas yang baik adalah...
+A. Plastik
+B. Karet
+C. Kain
+D. Aluminium
+
+87. Pegangan panci biasanya terbuat dari plastik agar...
+A. Cepat panas
+B. Tidak panas saat dipegang
+C. Terlihat bagus
+D. Lebih murah
+
+88. Perubahan wujud yang memerlukan panas adalah...
+A. Membeku
+B. Mengembun
+C. Mencair
+D. Mengkristal
+
+89. Air yang membeku menjadi es mengalami...
+A. Penambahan panas
+B. Pelepasan panas
+C. Kenaikan suhu
+D. Perubahan kimia
+
+90. Udara yang bergerak disebut...
+A. Awan
+B. Angin
+C. Hujan
+D. Petir
+
+91. Alat untuk mengukur suhu adalah...
+A. Barometer
+B. Termometer
+C. Anemometer
+D. Dinamometer
+
+92. Perubahan bentuk benda karena gaya, contohnya...
+A. Menendang bola
+B. Membuat gerabah dari tanah liat
+C. Mengerem sepeda
+D. Mendorong meja
+
+93. Gaya magnet paling kuat terletak pada bagian...
+A. Tengah magnet
+B. Atas magnet
+C. Kutub-kutub magnet
+D. Samping magnet
+
+94. Bentuk energi yang dihasilkan oleh setrika adalah...
+A. Energi gerak
+B. Energi cahaya
+C. Energi panas
+D. Energi kimia
+
+95. Bunyi pantul yang terdengar setelah bunyi asli selesai disebut...
+A. Gema
+B. Gaung
+C. Kerdam
+D. Resonansi
+
+96. Hewan yang aktif di malam hari disebut hewan...
+A. Mamalia
+B. Nokturnal
+C. Reptilia
+D. Amfibi
+
+97. Tumbuhan kaktus menyesuaikan diri dengan lingkungan gurun dengan cara...
+A. Berdaun lebar
+B. Memiliki akar pendek
+C. Batang tebal menyimpan air
+D. Tidak memiliki batang
+
+98. Simbiosis antara lebah dan bunga adalah contoh simbiosis...
+A. Parasitisme
+B. Komensalisme
+C. Mutualisme
+D. Netralisme
+
+99. Salah satu cara menghemat energi listrik adalah...
+A. Menyalakan lampu di siang hari
+B. Membiarkan TV menyala saat tidur
+C. Mematikan lampu jika tidak digunakan
+D. Menggunakan mesin cuci setiap jam
+
+100. Sumber energi yang tidak akan habis meskipun digunakan terus menerus disebut...
+A. Energi fosil
+B. Energi terbarukan
+C. Energi kimia
+D. Energi nuklir
+
+KUNCI JAWABAN:
+
+1. C
+2. B
+3. B
+4. C
+5. C
+6. B
+7. C
+8. C
+9. B
+10. B
+11. C
+12. B
+13. C
+14. B
+15. B
+16. B
+17. C
+18. C
+19. B
+20. B
+21. B
+22. B
+23. C
+24. B
+25. B
+26. B
+27. C
+28. B
+29. A
+30. C
+31. B
+32. C
+33. B
+34. B
+35. B
+36. A
+37. C
+38. B
+39. C
+40. B
+41. B
+42. B
+43. B
+44. C
+45. B
+46. B
+47. B
+48. B
+49. C
+50. C
+51. A
+52. B
+53. C
+54. B
+55. B
+56. B
+57. B
+58. C
+59. D
+60. B
+61. C
+62. C
+63. B
+64. C
+65. C
+66. B
+67. C
+68. B
+69. A
+70. B
+71. B
+72. C
+73. B
+74. A
+75. B
+76. B
+77. C
+78. B
+79. B
+80. B
+81. B
+82. A
+83. C
+84. C
+85. C
+86. D
+87. B
+88. C
+89. B
+90. B
+91. B
+92. B
+93. C
+94. C
+95. A
+96. B
+97. C
+98. C
+99. C
+100. B

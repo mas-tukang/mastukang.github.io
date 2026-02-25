@@ -1,0 +1,68 @@
+<!-- known issues
+ - kunci jawaban meleset  -->
+
+
+<!DOCTYPE html>
+<html lang="id">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Latihan Soal Bahasa Indonesia SD Kelas 2</title>
+
+  <!-- Responsive -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- CSS (gunakan CSS yang sama dengan kuis perkalian) -->
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <div class="back-btn">
+    <button onclick="location.href='../bahasa-sd-home.html'">
+      ⬅️ Kembali ke Bahasa Indonesia SD
+    </button>
+  </div>
+
+  <h1>Latihan Soal Bahasa Indonesia SD Kelas 2</h1>
+
+  <!-- INFO TIMER -->
+  <div id="info">
+    ⏱️ Waktu tersisa: <span id="timer">60:00</span>
+  </div>
+
+  <!-- AREA KUIS -->
+  <div id="quiz-area" style="display:none;">
+
+    <!-- PROGRESS BAR -->
+    <div class="progress-container">
+      <div id="progress-bar"></div>
+    </div>
+
+    <!-- SOAL -->
+    <div class="question" id="question"></div>
+
+    <!-- PILIHAN JAWABAN (DIISI OLEH JS) -->
+    <div id="choices"></div>
+
+    <!-- PESAN BENAR / SALAH -->
+    <div id="message"></div>
+
+    <!-- TOMBOL NEXT (MUNCUL JIKA SALAH) -->
+    <button id="nextBtn" class="choice-btn" onclick="soalBerikutnya()" style="display:none;">
+      Next
+    </button>
+
+  </div>
+
+  <!-- TOMBOL MULAI -->
+  <button id="startBtn" class="choice-btn" onclick="mulaiUjian()">
+    Mulai Latihan
+  </button>
+
+  <!-- SCRIPT -->
+  <script src="script.js"></script>
+
+</body>
+
+</html>

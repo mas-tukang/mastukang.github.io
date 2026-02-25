@@ -1,0 +1,706 @@
+SOAL:
+
+1. Hello, my name ... Andi.
+A. is
+B. am
+C. are
+D. you
+
+2. How do you say Selamat pagi in English?
+A. Good night
+B. Good morning
+C. Good afternoon
+D. Goodbye
+
+3. How are you?
+   I am ...
+A. Thank you
+B. Fine, thank you
+C. Nice to meet you
+D. Hello
+
+4. Look at the number: 5. It is number...
+A. Four
+B. Five
+C. Six
+D. Three
+
+5. What color is an apple?
+A. Blue
+B. Red
+C. Yellow
+D. Black
+
+6. One, two, ..., four, five. The missing number is...
+A. Seven
+B. Three
+C. Zero
+D. Eight
+
+7. B-O-O-K. It is a...
+A. Pencil
+B. Pen
+C. Book
+D. Bag
+
+8. This is a part of the body to see. It is an...
+A. Ear
+B. Eye
+C. Nose
+D. Mouth
+
+9. My mother is a... (Perempuan)
+A. Man
+B. Boy
+C. Woman
+D. Brother
+
+10. What is Buku in English?
+A. Ruler
+B. Eraser
+C. Book
+D. Pencil
+
+11. Good ... (diucapkan sebelum tidur)
+A. Morning
+B. Night
+C. Afternoon
+D. Evening
+
+12. The color of the sky is...
+A. Green
+B. White
+C. Blue
+D. Pink
+
+13. I have two ... (Telinga)
+A. Eyes
+B. Ears
+C. Hands
+D. Legs
+
+14. Seven in Indonesian is...
+A. Enam
+B. Tujuh
+C. Delapan
+D. Sembilan
+
+15. What is Pensil in English?
+A. Pencil
+B. Pen
+C. Bag
+D. Crayon
+
+16. Good bye means...
+A. Selamat siang
+B. Selamat tinggal
+C. Selamat datang
+D. Halo
+
+17. Number 10 is...
+A. Nine
+B. Ten
+C. Eleven
+D. One
+
+18. A-N-T. It is an...
+A. Elephant
+B. Ant
+C. Cat
+D. Dog
+
+19. Which one is a fruit?
+A. Carrot
+B. Apple
+C. Spinach
+D. Cabbage
+
+20. A banana is... (warna)
+A. Red
+B. Yellow
+C. Purple
+D. Grey
+
+21. Nice to ... you.
+A. see
+B. meet
+C. hear
+D. sit
+
+22. This is my ... (Hidung)
+A. Mouth
+B. Nose
+C. Face
+D. Hair
+
+23. Sit ... (Duduk)
+A. Up
+B. Down
+C. Left
+D. Right
+
+24. Stand ... (Berdiri)
+A. Up
+B. Down
+C. Here
+D. There
+
+25. T-A-B-L-E. It is a...
+A. Chair
+B. Table
+C. Door
+D. Window
+
+26. I have ... fingers on one hand.
+A. Five
+B. Ten
+C. Two
+D. One
+
+27. Open the ... (Buka pintu)
+A. Window
+B. Door
+C. Book
+D. Box
+
+28. My ... is black. (Rambut)
+A. Teeth
+B. Hair
+C. Hand
+D. Foot
+
+29. What is Kucing in English?
+A. Dog
+B. Cat
+C. Bird
+D. Fish
+
+30. A cow says...
+A. Meow
+B. Moo
+C. Woof
+D. Chirp
+
+31. Four plus Two is...
+A. Five
+B. Six
+C. Seven
+D. Eight
+
+32. Ten minus Three is...
+A. Six
+B. Seven
+C. Eight
+D. Nine
+
+33. Which one is an animal?
+A. Table
+B. Lion
+C. Pencil
+D. Ruler
+
+34. My father is a... (Laki-laki)
+A. Woman
+B. Man
+C. Girl
+D. Sister
+
+35. Close your ... (Tutup bukumu)
+A. Bag
+B. Pen
+C. Book
+D. Door
+
+36. Red in Indonesian is...
+A. Biru
+B. Merah
+C. Kuning
+D. Hijau
+
+37. What color is a leaf?
+A. Yellow
+B. Green
+C. Red
+D. Orange
+
+38. M-O-U-S-E. It is a...
+A. Mouse
+B. Monkey
+C. Moon
+D. Mouth
+
+39. Two, Four, Six, ...
+A. Seven
+B. Eight
+C. Nine
+D. Ten
+
+40. How do you spell DOG?
+A. D-O-G
+B. D-G-O
+C. G-O-D
+D. O-D-G
+
+41. This is a ... (Kursi)
+A. Table
+B. Chair
+C. Desk
+D. Cupboard
+
+42. Wash your ... (Cuci tangan)
+A. Face
+B. Hands
+C. Feet
+D. Hair
+
+43. Brush your ... (Sikat gigi)
+A. Hair
+B. Teeth
+C. Nose
+D. Ears
+
+44. Which one is a school bag?
+A. Tas Sekolah
+B. Buku Pelajaran
+C. Tas Plastik
+D. Koper
+
+45. Teacher means...
+A. Siswa
+B. Guru
+C. Kepala Sekolah
+D. Satpam
+
+46. Student means...
+A. Guru
+B. Murid/Siswa
+C. Orang tua
+D. Teman
+
+47. White in Indonesian is...
+A. Hitam
+B. Putih
+C. Cokelat
+D. Ungu
+
+48. My school is ... (Besar)
+A. Small
+B. Big
+C. Dirty
+D. Bad
+
+49. Thank you.
+   You are ...
+A. Welcome
+B. Fine
+C. Good
+D. Sorry
+
+50. I am sorry. means...
+A. Terima kasih
+B. Saya minta maaf
+C. Selamat pagi
+D. Permisi
+
+51. Eight in Indonesian is...
+A. Tujuh
+B. Delapan
+C. Sembilan
+D. Sepuluh
+
+52. What is Ikan in English?
+A. Bird
+B. Fish
+C. Frog
+D. Duck
+
+53. I use my ... to walk.
+A. Hands
+B. Legs
+C. Arms
+D. Eyes
+
+54. Point to the ... (Tunjuk jendela)
+A. Door
+B. Window
+C. Wall
+D. Floor
+
+55. Clean the ... (Bersihkan papan tulis)
+A. Floor
+B. Blackboard
+C. Table
+D. Chair
+
+56. Color of chocolate is...
+A. Black
+B. Brown
+C. White
+D. Blue
+
+57. Brother means...
+A. Kakak perempuan
+B. Saudara laki-laki
+C. Ibu
+D. Ayah
+
+58. Sister means...
+A. Saudara laki-laki
+B. Saudara perempuan
+C. Paman
+D. Bibi
+
+59. Show me your ... (Tunjukkan pulpenmu)
+A. Pencil
+B. Pen
+C. Ruler
+D. Eraser
+
+60. Circle is a...
+A. Square
+B. Shape
+C. Color
+D. Number
+
+61. What is Kepala in English?
+A. Head
+B. Hand
+C. Heart
+D. Hair
+
+62. Look at the ... (Lihatlah gambar itu)
+A. Picture
+B. Sound
+C. Song
+D. Story
+
+63. An elephant is ... (Besar)
+A. Small
+B. Big
+C. Tiny
+D. Thin
+
+64. A mouse is ... (Kecil)
+A. Big
+B. Small
+C. Long
+D. Tall
+
+65. What is the color of a tomato?
+A. Blue
+B. Red
+C. Green
+D. Black
+
+66. Listen to the ... (Dengarkan guru)
+A. Book
+B. Teacher
+C. Pen
+D. Chair
+
+67. Please, ... the door. (Tolong tutup pintu)
+A. Open
+B. Close
+C. Go
+D. Sit
+
+68. What is Sembilan in English?
+A. Eight
+B. Nine
+C. Seven
+D. Ten
+
+69. T-W-O is number...
+A. 1
+B. 2
+C. 3
+D. 4
+
+70. This is my ... (Mulut)
+A. Mouth
+B. Nose
+C. Eye
+D. Ear
+
+71. Which one is a color?
+A. Apple
+B. Yellow
+C. Cat
+D. Table
+
+72. Orange is a color and a...
+A. Vegetable
+B. Fruit
+C. Animal
+D. Tool
+
+73. How many eyes do you have?
+A. One
+B. Two
+C. Three
+D. Four
+
+74. I eat with my ...
+A. Ear
+B. Mouth
+C. Nose
+D. Hair
+
+75. Raise your ... (Angkat tanganmu)
+A. Foot
+B. Hand
+C. Head
+D. Leg
+
+76. Draw a ... (Gambar sebuah bintang)
+A. Star
+B. Moon
+C. Sun
+D. Tree
+
+77. Sun is in the...
+A. Water
+B. Sky
+C. Ground
+D. Bag
+
+78. Blue + Yellow makes...
+A. Purple
+B. Green
+C. Orange
+D. Pink
+
+79. Duck says...
+A. Quack
+B. Moo
+C. Meow
+D. Bark
+
+80. Pencil case in Indonesian is...
+A. Tas sekolah
+B. Kotak pensil
+C. Buku tulis
+D. Meja belajar
+
+81. E-R-A-S-E-R is...
+A. Penggaris
+B. Penghapus
+C. Peruncing
+D. Pulpen
+
+82. My bag is ... (Biru)
+A. Blue
+B. Black
+C. Brown
+D. Bare
+
+83. A bird can ... (Terbang)
+A. Swim
+B. Fly
+C. Run
+D. Walk
+
+84. A fish can ... (Berenang)
+A. Fly
+B. Swim
+C. Jump
+D. Speak
+
+85. Happy means...
+A. Sedih
+B. Senang
+C. Marah
+D. Takut
+
+86. Sad means...
+A. Senang
+B. Sedih
+C. Lelah
+D. Lapar
+
+87. One, ..., three, four.
+A. Zero
+B. Two
+C. Five
+D. Six
+
+88. Take out your ... (Keluarkan buku kalian)
+A. Books
+B. Shoes
+C. Food
+D. Clothes
+
+89. What color is milk?
+A. Black
+B. White
+C. Red
+D. Green
+
+90. Touch your ... (Sentuh bahumu)
+A. Knee
+B. Shoulder
+C. Toe
+D. Finger
+
+91. Head, shoulders, knees, and ...
+A. Ears
+B. Toes
+C. Nose
+D. Eyes
+
+92. Pink in Indonesian is...
+A. Merah tua
+B. Merah muda
+C. Ungu
+D. Oranye
+
+93. May I go to the toilet? is to...
+A. Ask permission
+B. Say hello
+C. Say thank you
+D. Say sorry
+
+94. What is Penggaris in English?
+A. Ruler
+B. Sharpener
+C. Pencil
+D. Pen
+
+95. This is a ... (Ini adalah seekor anjing)
+A. Cat
+B. Dog
+C. Rabbit
+D. Bird
+
+96. Black means...
+A. Putih
+B. Hitam
+C. Hijau
+D. Biru
+
+97. Jump means...
+A. Lari
+B. Melompat
+C. Berjalan
+D. Tidur
+
+98. Six, Seven, ..., Nine.
+A. Five
+B. Eight
+C. Ten
+D. Four
+
+99. I love my ... (Saya sayang ibu saya)
+A. Father
+B. Mother
+C. Brother
+D. Teacher
+
+100. Learning English is...
+A. Hard
+B. Fun
+C. Bad
+D. Sad
+
+KUNCI JAWABAN:
+
+1. A
+2. B
+3. B
+4. B
+5. B
+6. B
+7. C
+8. B
+9. C
+10. C
+11. B
+12. C
+13. B
+14. B
+15. A
+16. B
+17. B
+18. B
+19. B
+20. B
+21. B
+22. B
+23. B
+24. A
+25. B
+26. A
+27. B
+28. B
+29. B
+30. B
+31. B
+32. B
+33. B
+34. B
+35. C
+36. B
+37. B
+38. A
+39. B
+40. A
+41. B
+42. B
+43. B
+44. A
+45. B
+46. B
+47. B
+48. B
+49. A
+50. B
+51. B
+52. B
+53. B
+54. B
+55. B
+56. B
+57. B
+58. B
+59. B
+60. B
+61. A
+62. A
+63. B
+64. B
+65. B
+66. B
+67. B
+68. B
+69. B
+70. A
+71. B
+72. B
+73. B
+74. B
+75. B
+76. A
+77. B
+78. B
+79. A
+80. B
+81. B
+82. A
+83. B
+84. B
+85. B
+86. B
+87. B
+88. A
+89. B
+90. B
+91. B
+92. B
+93. A
+94. A
+95. B
+96. B
+97. B
+98. B
+99. B
+100. B

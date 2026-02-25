@@ -1,0 +1,704 @@
+SOAL:
+
+1. Bagian tubuh hewan yang digunakan untuk mengunyah makanan adalah...
+A. Mata
+B. Gigi
+C. Telinga
+D. Ekor
+
+2. Burung menggunakan paruhnya untuk...
+A. Berjalan
+B. Mengambil makanan
+C. Melihat
+D. Mendengar
+
+3. Hewan yang menggunakan sirip untuk berenang adalah...
+A. Kucing
+B. Ikan
+C. Burung
+D. Kelinci
+
+4. Fungsi utama akar pada tumbuhan adalah untuk...
+A. Membuat buah
+B. Menyerap air dari tanah
+C. Menarik serangga
+D. Tempat hinggap burung
+
+5. Bagian tumbuhan yang biasanya memiliki warna cerah untuk menarik perhatian adalah...
+A. Akar
+B. Batang
+C. Bunga
+D. Biji
+
+6. Tempat hidup makhluk hidup disebut...
+A. Lingkungan
+B. Habitat
+C. Rumah
+D. Taman
+
+7. Contoh hewan yang hidup di air adalah...
+A. Ayam
+B. Sapi
+C. Lumba-lumba
+D. Harimau
+
+8. Hewan yang dapat hidup di darat dan di air disebut hewan...
+A. Mamalia
+B. Amfibi
+C. Reptil
+D. Unggas
+
+9. Cacing tanah hidup di dalam...
+A. Pohon
+B. Tanah yang lembap
+C. Air laut
+D. Udara
+
+10. Tumbuhan teratai hidup di...
+A. Padang pasir
+B. Permukaan air
+C. Pegunungan
+D. Dalam gua
+
+11. Benda yang bentuknya tetap meskipun dipindahkan adalah benda...
+A. Cair
+B. Gas
+C. Padat
+D. Lembek
+
+12. Air jika dipindahkan dari botol ke mangkuk, maka bentuknya akan...
+A. Tetap seperti botol
+B. Menjadi seperti mangkuk
+C. Berubah menjadi gas
+D. Menjadi keras
+
+13. Asap merupakan contoh benda...
+A. Padat
+B. Cair
+C. Gas
+D. Kristal
+
+14. Minyak goreng termasuk benda cair karena...
+A. Bentuknya tetap
+B. Mengalir ke tempat yang lebih rendah
+C. Sangat keras
+D. Tidak bisa dilihat
+
+15. Benda yang volumenya berubah-ubah sesuai wadahnya dan mengisi ruangan adalah...
+A. Meja
+B. Kecap
+C. Udara dalam balon
+D. Es batu
+
+16. Perubahan benda dari padat menjadi cair disebut...
+A. Membeku
+B. Mencair
+C. Menguap
+D. Menyublim
+
+17. Mentega yang dipanaskan di atas penggorengan akan...
+A. Mencair
+B. Mengeras
+C. Membeku
+D. Menghilang
+
+18. Air yang dimasukkan ke dalam freezer akan mengalami perubahan menjadi...
+A. Uap
+B. Es (Membeku)
+C. Minyak
+D. Embun
+
+19. Baju yang basah menjadi kering saat dijemur karena airnya...
+A. Mencair
+B. Membeku
+C. Menguap
+D. Mengkristal
+
+20. Lilin yang dibakar akan meleleh, lalu tetesannya akan kembali keras. Proses mengerasnya tetesan lilin disebut...
+A. Mencair
+B. Membeku
+C. Menguap
+D. Menyublim
+
+21. Energi panas terbesar di bumi berasal dari...
+A. Api
+B. Kompor
+C. Matahari
+D. Lampu
+
+22. Alat yang menggunakan energi listrik untuk menghasilkan panas adalah...
+A. Kipas angin
+B. Setrika
+C. Radio
+D. Jam dinding
+
+23. Lampu senter bisa menyala karena mendapat energi dari...
+A. Air
+B. Angin
+C. Baterai
+D. Tanah
+
+24. Energi yang dihasilkan oleh radio adalah energi...
+A. Cahaya
+B. Bunyi
+C. Panas
+D. Gerak
+
+25. Contoh benda yang menggunakan energi gerak adalah...
+A. Televisi
+B. Kincir angin
+C. Senter
+D. Dispenser
+
+26. Cahaya matahari pagi berguna bagi tubuh kita untuk membentuk vitamin...
+A. A
+B. B
+C. C
+D. D
+
+27. Matahari terbit di sebelah timur menandakan waktu...
+A. Pagi
+B. Siang
+C. Sore
+D. Malam
+
+28. Bayangan benda di pagi hari akan berada di sebelah...
+A. Timur
+B. Barat
+C. Utara
+D. Selatan
+
+29. Saat siang hari matahari berada tepat di atas kepala, suhu udara terasa...
+A. Dingin
+B. Sejuk
+C. Sangat panas
+D. Lembap
+
+30. Bulan dan bintang memancarkan cahaya pada waktu...
+A. Siang
+B. Pagi
+C. Malam
+D. Sore
+
+31. Untuk menjaga kebersihan badan, kita harus...
+A. Makan banyak
+B. Mandi secara teratur
+C. Tidur seharian
+D. Bermain lumpur
+
+32. Kita mencuci tangan sebelum makan agar terhindar dari kuman...
+A. Penyakit
+B. Tanaman
+C. Hewan
+D. Udara
+
+33. Alat untuk membersihkan kuku yang panjang adalah...
+A. Pisau
+B. Gunting kuku
+C. Sikat gigi
+D. Amplas
+
+34. Tidur yang cukup membuat tubuh menjadi...
+A. Lemas
+B. Segar dan sehat
+C. Sakit kepala
+D. Malas
+
+35. Lingkungan yang kotor dapat menjadi sarang...
+A. Ikan
+B. Penyakit dan nyamuk
+C. Bunga
+D. Burung
+
+36. Air sungai yang tercemar sampah warnanya akan menjadi...
+A. Bening
+B. Keruh dan kotor
+C. Biru
+D. Putih
+
+37. Menanam pohon di sekitar rumah membuat udara menjadi...
+A. Berdebu
+B. Segar dan asri
+C. Panas
+D. Sesak
+
+38. Suara yang terlalu bising dapat merusak indra...
+A. Penglihatan
+B. Pendengaran
+C. Penciuman
+D. Peraba
+
+39. Kita bernapas menghirup oksigen dan mengeluarkan...
+A. Air
+B. Karbondioksida
+C. Makanan
+D. Debu
+
+40. Makanan yang sehat bagi anak sekolah adalah makanan yang...
+A. Sangat pedas
+B. Mengandung zat gizi seimbang
+C. Banyak warnanya
+D. Hanya cokelat
+
+41. Hewan yang bergerak dengan perutnya (melata) adalah...
+A. Kucing
+B. Ular
+C. Burung
+D. Kelinci
+
+42. Bebek memiliki selaput pada kakinya yang berguna untuk...
+A. Berlari cepat
+B. Berenang di air
+C. Memanjat pohon
+D. Melompat tinggi
+
+43. Tumbuhan yang batangnya berduri untuk melindungi diri adalah...
+A. Padi
+B. Mawar
+C. Bayam
+D. Kangkung
+
+44. Hewan peliharaan harus diberi makan secara teratur agar...
+A. Cepat mati
+B. Sehat dan tumbuh
+C. Menjadi galak
+D. Tidur terus
+
+45. Bagian tubuh ayam yang diambil daging dan telurnya adalah...
+A. Bulunya
+B. Badannya
+C. Kakinya
+D. Paruhnya
+
+46. Benda yang ditarik oleh magnet disebut benda...
+A. Magnetis
+B. Plastik
+C. Kayu
+D. Karet
+
+47. Contoh benda magnetis adalah...
+A. Pensil
+B. Paku besi
+C. Penghapus
+D. Penggaris plastik
+
+48. Magnet memiliki dua kutub, yaitu kutub...
+A. Atas dan bawah
+B. Kanan dan kiri
+C. Utara dan selatan
+D. Depan dan belakang
+
+49. Jika dua kutub magnet yang berbeda (Utara dan Selatan) didekatkan, maka akan...
+A. Tolak-menolak
+B. Tarik-menarik
+C. Diam saja
+D. Pecah
+
+50. Kompas menggunakan magnet untuk menunjukkan arah...
+A. Jalan raya
+B. Mata angin (Utara-Selatan)
+C. Rumah
+D. Sekolah
+
+51. Bunyi yang sangat lemah disebut bunyi...
+A. Nyaring
+B. Pelan/Lirih
+C. Gaduh
+D. Merdu
+
+52. Alat musik drum menghasilkan bunyi dengan cara...
+A. Ditiup
+B. Dipukul
+C. Dipetik
+D. Digesek
+
+53. Getaran benda akan menghasilkan...
+A. Cahaya
+B. Panas
+C. Bunyi
+D. Listrik
+
+54. Manusia bisa berbicara karena adanya getaran pada...
+A. Jantung
+B. Paru-paru
+C. Pita suara
+D. Perut
+
+55. Suara petir terdengar sangat keras karena memiliki energi ... yang besar.
+A. Cahaya
+B. Bunyi
+C. Gerak
+D. Kimia
+
+56. Benda yang tembus cahaya disebut benda...
+A. Gelap
+B. Bening/Transparan
+C. Buram
+D. Padat
+
+57. Kaca jendela rumah biasanya dibuat bening agar...
+A. Cahaya matahari bisa masuk
+B. Rumah menjadi gelap
+C. Orang tidak bisa melihat ke dalam
+D. Kaca tidak pecah
+
+58. Saat kita bercermin, kita melihat ... kita.
+A. Bayangan asli
+B. Pantulan diri
+C. Orang lain
+D. Cahaya lampu
+
+59. Pelangi memiliki berapa warna dasar yang utama?
+A. 1
+B. 3
+C. 7
+D. 10
+
+60. Senter digunakan untuk menerangi tempat yang...
+A. Terang
+B. Gelap
+C. Luas
+D. Basah
+
+61. Bagian tumbuhan yang akan menjadi tumbuhan baru adalah...
+A. Daun
+B. Biji
+C. Batang
+D. Akar
+
+62. Tanaman cabai berkembang biak melalui...
+A. Akar
+B. Batang
+C. Biji
+D. Daun
+
+63. Tumbuhan yang menyimpan cadangan makanan di akar (umbi) adalah...
+A. Pisang
+B. Singkong
+C. Mangga
+D. Kelapa
+
+64. Daun berwarna hijau karena mengandung...
+A. Air
+B. Klorofil
+C. Tanah
+D. Pasir
+
+65. Batang pohon jati sangat kuat sehingga sering digunakan untuk membuat...
+A. Pakaian
+B. Perabot rumah tangga (meja/kursi)
+C. Kertas tulis
+D. Makanan
+
+66. Hewan yang memakan tumbuhan saja disebut...
+A. Karnivora
+B. Herbivora
+C. Omnivora
+D. Insektivora
+
+67. Harimau adalah hewan karnivora karena memakan...
+A. Rumput
+B. Buah
+C. Daging hewan lain
+D. Biji-bijian
+
+68. Ayam termasuk hewan omnivora karena makan...
+A. Hanya cacing
+B. Hanya jagung
+C. Biji-bijian dan hewan kecil (cacing/serangga)
+D. Hanya rumput
+
+69. Katak memulai hidupnya dari...
+A. Kecebong/Berudu
+B. Telur
+C. Anak katak
+D. Ulat
+
+70. Perubahan bentuk hewan dalam pertumbuhannya disebut...
+A. Fotosintesis
+B. Metamorfosis
+C. Reboisasi
+D. Evaporasi
+
+71. Udara yang bergerak disebut...
+A. Awan
+B. Angin
+C. Hujan
+D. Petir
+
+72. Angin yang sangat kencang dan merusak disebut angin...
+A. Sepoi-sepoi
+B. Darat
+C. Puting beliung
+D. Laut
+
+73. Kincir angin bisa berputar karena adanya energi dari...
+A. Air
+B. Matahari
+C. Angin
+D. Listrik
+
+74. Nelayan tradisional pergi melaut memanfaatkan angin...
+A. Laut
+B. Darat
+C. Topan
+D. Lembah
+
+75. Salah satu kegunaan angin bagi manusia adalah untuk...
+A. Membakar sampah
+B. Mengeringkan jemuran
+C. Membuat es
+D. Membasahi tanah
+
+76. Air laut rasanya asin karena mengandung banyak...
+A. Gula
+B. Garam
+C. Tanah
+D. Kapur
+
+77. Aliran air sungai bermuara (berakhir) di...
+A. Gunung
+B. Laut
+C. Hutan
+D. Sawah
+
+78. Kita tidak boleh membuang sampah ke selokan karena menyebabkan...
+A. Selokan bersih
+B. Banjir saat hujan
+C. Air mengalir lancar
+D. Banyak ikan
+
+79. Air sangat penting bagi kehidupan untuk...
+A. Bernapas
+B. Minum dan mandi
+C. Terbang
+D. Menghasilkan api
+
+80. Penyakit yang sering muncul akibat lingkungan banjir adalah...
+A. Batuk
+B. Sakit kulit dan diare
+C. Pusing
+D. Sakit gigi
+
+81. Matahari terasa paling panas pada waktu...
+A. Pagi hari
+B. Jam 12 siang
+C. Sore hari
+D. Malam hari
+
+82. Saat malam hari yang cerah, langit terlihat dihiasi oleh...
+A. Awan hitam
+B. Pelangi
+C. Bintang-bintang
+D. Petir
+
+83. Bentuk bulan yang terlihat bulat sempurna disebut bulan...
+A. Sabit
+B. Setengah
+C. Purnama
+D. Baru
+
+84. Kumpulan uap air di langit disebut...
+A. Bintang
+B. Pelangi
+C. Awan
+D. Meteor
+
+85. Cuaca mendung biasanya ditandai dengan awan berwarna...
+A. Putih bersih
+B. Biru muda
+C. Gelap/Kelabu
+D. Merah
+
+86. Alat yang digunakan untuk mengukur suhu adalah...
+A. Penggaris
+B. Timbangan
+C. Termometer
+D. Jam
+
+87. Benda yang mudah menghantarkan panas disebut...
+A. Isolator
+B. Konduktor
+C. Magnet
+D. Radiasi
+
+88. Sendok logam yang dicelupkan ke air panas akan ikut panas, ini karena logam adalah...
+A. Penahan panas
+B. Penghantar panas yang baik
+C. Benda cair
+D. Benda gas
+
+89. Pegangan sudip (alat penggoreng) biasanya dari kayu agar...
+A. Tangan tidak kepanasan
+B. Masakan cepat matang
+C. Alatnya ringan
+D. Terlihat mahal
+
+90. Karet digunakan untuk membuat ban karena sifatnya yang...
+A. Mudah patah
+B. Lentur dan kuat
+C. Keras sekali
+D. Mudah terbakar
+
+91. Sumber energi utama bagi tumbuhan untuk memasak makanan adalah...
+A. Air
+B. Cahaya matahari
+C. Pupuk
+D. Angin
+
+92. Perubahan energi pada lampu listrik adalah energi listrik menjadi...
+A. Panas saja
+B. Cahaya
+C. Gerak
+D. Bunyi
+
+93. Kita harus menghemat energi dengan cara...
+A. Menyalakan lampu saat tidur siang
+B. Mematikan TV jika tidak ditonton
+C. Membiarkan keran air terbuka
+D. Menggunakan motor untuk jarak dekat
+
+94. Baterai bekas termasuk sampah yang...
+A. Boleh dibuang sembarangan
+B. Berbahaya bagi lingkungan
+C. Bisa dimakan hewan
+D. Cepat hancur
+
+95. Bunyi pantul yang terdengar hampir bersamaan dengan bunyi asli disebut...
+A. Gema
+B. Gaung
+C. Desis
+D. Nada
+
+96. Hewan yang mencari makan pada malam hari (seperti burung hantu) disebut...
+A. Diurnal
+B. Nokturnal
+C. Karnivora
+D. Herbivora
+
+97. Fungsi ekor pada kucing adalah untuk...
+A. Memegang makanan
+B. Menjaga keseimbangan
+C. Mendengar suara
+D. Melihat musuh
+
+98. Tempat perlindungan bagi hutan dan hewan di dalamnya disebut...
+A. Pasar
+B. Cagar alam
+C. Waduk
+D. Pelabuhan
+
+99. Salah satu cara merawat tanaman adalah dengan...
+A. Mencabuti daunnya
+B. Memberi pupuk dan menyiramnya
+C. Menutupinya dari sinar matahari
+D. Membiarkannya kering
+
+100. Ilmu pengetahuan alam membantu kita untuk...
+A. Menghitung uang
+B. Mengenal dan menjaga alam sekitar
+C. Mengeja kata
+D. Menggambar rumah
+
+KUNCI JAWABAN:
+
+1. B
+2. B
+3. B
+4. B
+5. C
+6. B
+7. C
+8. B
+9. B
+10. B
+11. C
+12. B
+13. C
+14. B
+15. C
+16. B
+17. A
+18. B
+19. C
+20. B
+21. C
+22. B
+23. C
+24. B
+25. B
+26. D
+27. A
+28. B
+29. C
+30. C
+31. B
+32. A
+33. B
+34. B
+35. B
+36. B
+37. B
+38. B
+39. B
+40. B
+41. B
+42. B
+43. B
+44. B
+45. B
+46. A
+47. B
+48. C
+49. B
+50. B
+51. B
+52. B
+53. C
+54. C
+55. B
+56. B
+57. A
+58. B
+59. C
+60. B
+61. B
+62. C
+63. B
+64. B
+65. B
+66. B
+67. C
+68. C
+69. B
+70. B
+71. B
+72. C
+73. C
+74. B
+75. B
+76. B
+77. B
+78. B
+79. B
+80. B
+81. B
+82. C
+83. C
+84. C
+85. C
+86. C
+87. B
+88. B
+89. A
+90. B
+91. B
+92. B
+93. B
+94. B
+95. B
+96. B
+97. B
+98. B
+99. B
+100. B

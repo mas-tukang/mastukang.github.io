@@ -1,0 +1,1 @@
+{ id: "nomor-id", name: "Nama Barang", link: "link-affiliate-shopee", img: "image-link" },

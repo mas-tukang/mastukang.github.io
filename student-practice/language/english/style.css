@@ -1,0 +1,98 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Comic Sans MS", Arial, sans-serif;
+  background: linear-gradient(#cceeff, #ffffff);
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 500px;
+  margin: auto;
+  padding: 20px;
+  text-align: center;
+}
+
+h1 {
+  color: #ff6600;
+}
+
+.settings label {
+  display: block;
+  margin: 15px 0;
+  font-size: 18px;
+}
+
+select,
+input {
+  font-size: 18px;
+  padding: 8px;
+  width: 100%;
+  max-width: 200px;
+  margin-top: 5px;
+}
+
+button {
+  background-color: #4caf50;
+  color: white;
+  font-size: 20px;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 12px;
+  margin-top: 15px;
+  width: 100%;
+}
+
+button:hover {
+  background-color: #358301;
+}
+
+.inactive {
+  background-color: #bbbbbb;
+  color: white;
+  font-size: 20px;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 12px;
+  margin-top: 15px;
+  width: 100%;
+}
+
+.inactive:hover {
+  background-color: #bbbbbb;
+  color: white;
+  font-size: 20px;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 12px;
+  margin-top: 15px;
+  width: 100%;
+}
+
+.question {
+  font-size: 36px;
+  margin: 20px 0;
+}
+
+.timer {
+  font-size: 22px;
+  color: #d9534f;
+  margin-top: 10px;
+}
+
+.message {
+  font-size: 22px;
+  min-height: 30px;
+  margin-top: 15px;
+}
+
+.hidden {
+  display: none;
+}
+
+.back-btn {
+  margin-bottom: 15px;
+}

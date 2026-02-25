@@ -1,0 +1,704 @@
+SOAL:
+
+1. "Where is the ball?" (Bola ada di bawah meja)
+A. The ball is on the table
+B. The ball is under the table
+C. The ball is beside the table
+D. The ball is behind the table
+
+2. "The cat is ... the chair." (Kucing ada di atas kursi)
+A. under
+B. on
+C. in
+D. between
+
+3. "My house is ... the school and the bank."
+A. behind
+B. between
+C. on
+D. under
+
+4. "What is 'Di samping' in English?"
+A. Beside
+B. Behind
+C. In front of
+D. Above
+
+5. "There is a painting ... the wall."
+A. in
+B. on
+C. under
+D. behind
+
+6. "He ... his bicycle every afternoon."
+A. ride
+B. rides
+C. riding
+D. ridden
+
+7. "They ... basketball in the school yard."
+A. play
+B. plays
+C. playing
+D. played
+
+8. "Does she like cooking?"
+A. Yes, she does
+B. Yes, she do
+C. No, she do not
+D. No, she doesn't do
+
+9. "We ... not watch TV in the morning."
+A. do
+B. does
+C. are
+D. is
+
+10. "What is 'Selalu' in English?"
+A. Sometimes
+B. Always
+C. Never
+D. Usually
+
+11. "I ... go to bed late." (Tidak pernah)
+A. always
+B. never
+C. often
+D. usually
+
+12. "Santi ... studies her lesson at 7 PM." (Sering)
+A. never
+B. often
+C. seldom
+D. rarely
+
+13. "What is your hobby?" (Memasak)
+A. My hobby is singing
+B. My hobby is cooking
+C. My hobby is dancing
+D. My hobby is gardening
+
+14. "Rudi likes ... in the pool."
+A. running
+B. swimming
+C. jumping
+D. hiking
+
+15. "She is ... a beautiful song."
+A. singing
+B. dancing
+C. drawing
+D. reading
+
+16. "My mother likes ... flowers in the garden."
+A. planting
+/B. cooking
+C. washing
+D. sleeping
+
+17. "What is 'Memancing' in English?"
+A. Cycling
+B. Fishing
+C. Surfing
+D. Skating
+
+18. "A ... works in a rice field."
+A. teacher
+B. farmer
+C. doctor
+D. pilot
+
+19. "A ... helps sick people in the hospital."
+A. chef
+B. nurse
+C. driver
+D. tailor
+
+20. "My father is a ... . He flies an airplane."
+A. driver
+B. pilot
+/C. sailor
+D. soldier
+
+21. "What is 'Tukang Kayu' in English?"
+A. Barber
+B. Carpenter
+C. Butcher
+D. Baker
+
+22. "A ... makes bread and cakes."
+A. baker
+B. butcher
+C. barber
+D. dancer
+
+23. "Is your father a policeman?" (Ya)
+A. Yes, he is
+B. No, he is not
+C. Yes, she is
+D. No, she is not
+
+24. "What time is it?" (08.15)
+A. It is eight o'clock
+B. It is a quarter past eight
+C. It is half past eight
+D. It is a quarter to eight
+
+25. "It is 10.30."
+A. It is ten o'clock
+B. It is half past ten
+C. It is half past eleven
+D. It is a quarter past ten
+
+26. "A quarter to seven" in numbers is...
+A. 07.15
+B. 06.45
+C. 07.45
+D. 06.15
+
+27. "How is the weather?" (Mendung)
+A. It is sunny
+B. It is cloudy
+C. It is rainy
+D. It is windy
+
+28. "It is ... . Let's play with the kite."
+A. rainy
+B. windy
+C. snowy
+D. cloudy
+
+29. "What is 'Pelangi' in English?"
+A. Rain
+B. Rainbow
+C. Sun
+D. Cloud
+
+30. "We need an umbrella when it is ..."
+A. sunny
+B. rainy
+C. windy
+D. hot
+
+31. "The elephant is ... than the cow."
+A. smaller
+B. bigger
+C. thinner
+D. shorter
+
+32. "A giraffe is ... than a horse."
+A. shorter
+B. taller
+C. smaller
+D. fatter
+
+33. "The ruler is ... than the pencil."
+A. shorter
+B. longer
+C. smaller
+D. bigger
+
+34. "My brother is ... than me." (Lebih tua)
+A. younger
+B. older
+C. taller
+D. shorter
+
+35. "What is 'Lebih murah' in English?"
+A. Expensive
+B. Cheaper
+C. Faster
+D. Slower
+
+36. "This car is ... than that bike." (Lebih mahal)
+A. cheaper
+B. more expensive
+C. more beautiful
+D. better
+
+37. "Where do you buy stamps?"
+A. Bank
+B. Post Office
+C. Hospital
+D. School
+
+38. "We go to the ... to see old things."
+A. Museum
+B. Zoo
+C. Market
+D. Park
+
+39. "Children play in the ... ."
+A. Hospital
+B. Playground
+C. Office
+D. Kitchen
+
+40. "What is 'Perpustakaan' in English?"
+A. Laboratory
+B. Library
+C. Classroom
+D. Canteen
+
+41. "I want to buy some medicine in the ..."
+A. Bakery
+B. Pharmacy/Drugstore
+C. Butchery
+D. Florist
+
+42. "What is 'Ruang Tamu' in English?"
+A. Bedroom
+B. Living room
+C. Dining room
+D. Bathroom
+
+43. "We have dinner in the ..."
+A. Garage
+B. Dining room
+C. Bathroom
+D. Attic
+
+44. "I wash my hands in the ..."
+A. Kitchen
+B. Bathroom
+C. Bedroom
+D. Yard
+
+45. "There is a ... in the kitchen." (Lemari es)
+A. stove
+B. refrigerator
+C. bed
+D. sofa
+
+46. "We put our car in the ..."
+A. Garden
+B. Garage
+C. Kitchen
+D. Living room
+
+47. "Can you play guitar?" (Tidak)
+A. Yes, I can
+B. No, I cannot
+C. Yes, I do
+D. No, I don't
+
+48. "She ... dance very well." (Bisa)
+A. can
+B. cannot
+C. is
+D. does
+
+49. "Birds ... fly in the sky."
+A. can
+B. cannot
+C. are
+D. do
+
+50. "Fish ... walk on the land."
+A. can
+B. cannot
+C. do
+D. is
+
+51. "How many ... are there?" (2 piring)
+A. plate
+B. plates
+C. glass
+D. glasses
+
+52. "There are five ... in the box." (Pensil)
+A. pencil
+B. pencils
+C. pen
+D. pens
+
+53. "I have three ... ." (Buku)
+A. book
+B. books
+C. bag
+D. bags
+
+54. "What is the plural of 'Child'?"
+A. Childs
+B. Children
+C. Childrens
+D. Childes
+
+55. "What is the plural of 'Tooth'?"
+A. Tooths
+B. Teeth
+C. Toothes
+D. Teethes
+
+56. "I see with my ..."
+A. ears
+B. eyes
+C. nose
+D. mouth
+
+57. "I taste food with my ..."
+A. hand
+B. tongue
+C. eye
+D. ear
+
+58. "We have ten ... on our feet."
+A. fingers
+B. toes
+C. knees
+D. arms
+
+59. "The part of the body between the head and the chest is ..."
+A. leg
+B. neck
+C. hand
+D. foot
+
+60. "What is 'Pundak' in English?"
+A. Stomach
+B. Shoulder
+C. Back
+D. Knee
+
+61. "Wash your ... before eating."
+A. hair
+B. hands
+C. feet
+D. ears
+
+62. "I ... milk every morning."
+A. eat
+B. drink
+C. sleep
+D. walk
+
+63. "She ... to school by bus."
+A. go
+B. goes
+C. going
+D. gone
+
+64. "My father ... the newspaper in the morning."
+A. read
+B. reads
+C. reading
+D. red
+
+65. "Do you like apples?"
+A. Yes, I do
+B. No, I doesn't
+C. Yes, I am
+D. No, I am not
+
+66. "He ... like spicy food." (Tidak suka)
+A. do not
+B. does not
+C. is not
+D. are not
+
+67. "What is 'Selasa' in English?"
+A. Monday
+B. Tuesday
+C. Thursday
+D. Saturday
+
+68. "Today is Wednesday. Tomorrow is ..."
+A. Tuesday
+B. Thursday
+C. Friday
+D. Monday
+
+69. "What is the month after May?"
+A. April
+B. June
+C. July
+D. August
+
+70. "August is the ... month of the year."
+A. seventh
+B. eighth
+C. ninth
+D. sixth
+
+71. "What is 'Cucu laki-laki' in English?"
+A. Granddaughter
+B. Grandson
+C. Nephew
+D. Niece
+
+72. "My father's wife is my ..."
+A. Aunt
+B. Mother
+C. Sister
+D. Grandmother
+
+73. "My mother's sister is my ..."
+A. Uncle
+B. Aunt
+C. Cousin
+D. Niece
+
+74. "What is 'Sepupu' in English?"
+A. Brother
+B. Cousin
+C. Nephew
+D. Aunt
+
+75. "Sixty-four" in numbers is...
+A. 46
+B. 64
+C. 60
+D. 40
+
+76. "95" in words is...
+A. Ninety-four
+B. Ninety-five
+C. Eighty-five
+D. Seventy-five
+
+77. "One hundred and twenty" is...
+A. 112
+B. 120
+C. 102
+D. 210
+
+78. "What is 'Penggaris' in English?"
+A. Eraser
+B. Ruler
+C. Compass
+D. Sharpener
+
+79. "I sharpen my pencil with a ..."
+A. Ruler
+B. Sharpener
+C. Case
+D. Glue
+
+80. "We use ... to stick paper."
+A. Scissor
+B. Glue
+C. Pen
+D. Ink
+
+81. "What color is the Indonesian flag?"
+A. Red and white
+B. Blue and white
+C. Red and yellow
+D. Green and white
+
+82. "Blue mixed with Red becomes ..."
+A. Green
+B. Purple
+C. Orange
+D. Brown
+
+83. "The sky is ... on a sunny day."
+A. grey
+B. blue
+C. black
+D. red
+
+84. "What is 'Haus' in English?"
+A. Hungry
+B. Thirsty
+C. Tired
+D. Sleepy
+
+85. "I am ... . I want to sleep."
+A. happy
+B. sleepy
+C. angry
+D. hungry
+
+86. "The students are ... because the teacher is coming."
+A. sad
+B. happy
+C. scared
+D. brave
+
+87. "Don't be ... ! You can do it."
+A. lazy
+/B. afraid
+C. happy
+D. hungry
+
+88. "What is 'Sopan' in English?"
+A. Diligent
+B. Polite
+C. Naughty
+D. Cruel
+
+89. "He is a ... boy. He always helps his mother."
+A. lazy
+B. helpful
+C. greedy
+D. mean
+
+90. "A ... person always tells the truth."
+A. dishonest
+B. honest
+C. lying
+D. bad
+
+91. "The opposite of 'Big' is ..."
+A. Large
+B. Small
+C. Tall
+D. Long
+
+92. "The opposite of 'Fast' is ..."
+A. Quick
+B. Slow
+C. Loud
+D. High
+
+93. "The opposite of 'Dirty' is ..."
+A. Clean
+B. Messy
+C. Old
+D. New
+
+94. "What is the English of 'Utara'?"
+A. South
+B. North
+C. West
+D. East
+
+95. "What is the English of 'Selatan'?"
+A. North
+B. South
+C. East
+D. West
+
+96. "Compass" in Indonesian is...
+A. Peta
+B. Kompas
+C. Jam
+D. Penggaris
+
+97. "Excuse me, ... is the toilet?"
+A. What
+B. Where
+C. Who
+D. When
+
+98. "How ... is this book?" (Menanyakan harga)
+A. many
+B. much
+C. far
+D. long
+
+99. "May I ... your pen, please?"
+A. lend
+B. borrow
+C. give
+D. buy
+
+100. "See you tomorrow!"
+A. Nice to meet you
+B. See you
+C. Thank you
+D. I am fine
+
+KUNCI JAWABAN:
+
+1. B
+2. B
+3. B
+4. A
+5. B
+6. B
+7. A
+8. A
+9. A
+10. B
+11. B
+12. B
+13. B
+14. B
+15. A
+16. A
+17. B
+18. B
+19. B
+20. B
+21. B
+22. A
+23. A
+24. B
+25. B
+26. B
+27. B
+28. B
+29. B
+30. B
+31. B
+32. B
+33. B
+34. B
+35. B
+36. B
+37. B
+38. A
+39. B
+40. B
+41. B
+42. B
+43. B
+44. B
+45. B
+46. B
+47. B
+48. A
+49. A
+50. B
+51. B
+52. B
+53. B
+54. B
+55. B
+56. B
+57. B
+58. B
+59. B
+60. B
+61. B
+62. B
+63. B
+64. B
+65. A
+66. B
+67. B
+68. B
+69. B
+70. B
+71. B
+72. B
+73. B
+74. B
+75. B
+76. B
+77. B
+78. B
+79. B
+80. B
+81. A
+82. B
+83. B
+84. B
+85. B
+86. B
+87. B
+88. B
+89. B
+90. B
+91. B
+92. B
+93. B
+94. B
+95. B
+96. B
+97. B
+98. B
+99. B
+100. B
